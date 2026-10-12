@@ -1,0 +1,924 @@
+node_id,node_type,label,pid,name,metric_1,metric_2,extra_info
+proc_0,process,[System Process] (PID 0),0,[System Process],48,0,
+proc_4,process,System (PID 4),4,System,493,0,
+proc_236,process,Secure System (PID 236),236,Secure System,0,0,
+proc_280,process,Registry (PID 280),280,Registry,4,0,
+proc_956,process,smss.exe (PID 956),956,smss.exe,2,0,
+proc_1480,process,csrss.exe (PID 1480),1480,csrss.exe,14,0,
+proc_1696,process,wininit.exe (PID 1696),1696,wininit.exe,1,0,
+proc_1704,process,csrss.exe (PID 1704),1704,csrss.exe,14,0,
+proc_1792,process,winlogon.exe (PID 1792),1792,winlogon.exe,3,0,
+proc_1816,process,services.exe (PID 1816),1816,services.exe,9,0,
+proc_1844,process,LsaIso.exe (PID 1844),1844,LsaIso.exe,1,0,
+proc_1864,process,lsass.exe (PID 1864),1864,lsass.exe,11,0,
+proc_1992,process,svchost.exe (PID 1992),1992,svchost.exe,23,0,
+proc_2000,process,fontdrvhost.exe (PID 2000),2000,fontdrvhost.exe,5,0,
+proc_2012,process,fontdrvhost.exe (PID 2012),2012,fontdrvhost.exe,5,0,
+proc_928,process,svchost.exe (PID 928),928,svchost.exe,11,0,
+proc_1120,process,WUDFCompanionHost.exe (PID 1120),1120,WUDFCompanionHost.exe,3,0,
+proc_1840,process,svchost.exe (PID 1840),1840,svchost.exe,5,0,
+proc_2152,process,dwm.exe (PID 2152),2152,dwm.exe,60,0,
+proc_2240,process,svchost.exe (PID 2240),2240,svchost.exe,2,0,
+proc_2244,process,svchost.exe (PID 2244),2244,svchost.exe,4,0,
+proc_2272,process,amdpmfservice.exe (PID 2272),2272,amdpmfservice.exe,14,0,
+proc_2296,process,svchost.exe (PID 2296),2296,svchost.exe,3,0,
+proc_2304,process,svchost.exe (PID 2304),2304,svchost.exe,11,0,
+proc_2344,process,svchost.exe (PID 2344),2344,svchost.exe,5,0,
+proc_2360,process,svchost.exe (PID 2360),2360,svchost.exe,6,0,
+proc_2404,process,svchost.exe (PID 2404),2404,svchost.exe,10,0,
+proc_2580,process,svchost.exe (PID 2580),2580,svchost.exe,12,0,
+proc_2640,process,svchost.exe (PID 2640),2640,svchost.exe,13,0,
+proc_2708,process,svchost.exe (PID 2708),2708,svchost.exe,23,0,
+proc_2812,process,svchost.exe (PID 2812),2812,svchost.exe,3,0,
+proc_2824,process,svchost.exe (PID 2824),2824,svchost.exe,3,0,
+proc_2836,process,svchost.exe (PID 2836),2836,svchost.exe,6,0,
+proc_2852,process,svchost.exe (PID 2852),2852,svchost.exe,5,0,
+proc_2944,process,svchost.exe (PID 2944),2944,svchost.exe,15,0,
+proc_3068,process,svchost.exe (PID 3068),3068,svchost.exe,7,0,
+proc_2496,process,svchost.exe (PID 2496),2496,svchost.exe,9,0,
+proc_2560,process,svchost.exe (PID 2560),2560,svchost.exe,5,0,
+proc_3100,process,svchost.exe (PID 3100),3100,svchost.exe,25,0,
+proc_3164,process,svchost.exe (PID 3164),3164,svchost.exe,3,0,
+proc_3296,process,svchost.exe (PID 3296),3296,svchost.exe,5,0,
+proc_3320,process,svchost.exe (PID 3320),3320,svchost.exe,6,0,
+proc_3396,process,svchost.exe (PID 3396),3396,svchost.exe,17,0,
+proc_3556,process,svchost.exe (PID 3556),3556,svchost.exe,5,0,
+proc_3988,process,svchost.exe (PID 3988),3988,svchost.exe,8,0,
+proc_4072,process,WmiPrvSE.exe (PID 4072),4072,WmiPrvSE.exe,7,0,
+proc_3536,process,svchost.exe (PID 3536),3536,svchost.exe,3,0,
+proc_3632,process,atiesrxx.exe (PID 3632),3632,atiesrxx.exe,13,0,
+proc_3380,process,amdfendrsr.exe (PID 3380),3380,amdfendrsr.exe,4,0,
+proc_3824,process,svchost.exe (PID 3824),3824,svchost.exe,9,0,
+proc_3280,process,svchost.exe (PID 3280),3280,svchost.exe,2,0,
+proc_4280,process,atieclxx.exe (PID 4280),4280,atieclxx.exe,18,0,
+proc_4288,process,svchost.exe (PID 4288),4288,svchost.exe,4,0,
+proc_4296,process,svchost.exe (PID 4296),4296,svchost.exe,3,0,
+proc_4304,process,svchost.exe (PID 4304),4304,svchost.exe,5,0,
+proc_4484,process,AppHelperCap.exe (PID 4484),4484,AppHelperCap.exe,6,0,
+proc_4492,process,NetworkCap.exe (PID 4492),4492,NetworkCap.exe,3,0,
+proc_4500,process,DiagsCap.exe (PID 4500),4500,DiagsCap.exe,3,0,
+proc_4512,process,TouchpointAnalyticsClientService.exe (PID 4512),4512,TouchpointAnalyticsClientService.exe,31,0,
+proc_4524,process,svchost.exe (PID 4524),4524,svchost.exe,6,0,
+proc_4532,process,svchost.exe (PID 4532),4532,svchost.exe,5,0,
+proc_4540,process,SysInfoCap.exe (PID 4540),4540,SysInfoCap.exe,23,0,
+proc_4548,process,Memory Compression (PID 4548),4548,Memory Compression,58,0,
+proc_4768,process,svchost.exe (PID 4768),4768,svchost.exe,9,0,
+proc_4808,process,svchost.exe (PID 4808),4808,svchost.exe,11,0,
+proc_5028,process,svchost.exe (PID 5028),5028,svchost.exe,5,0,
+proc_5072,process,svchost.exe (PID 5072),5072,svchost.exe,4,0,
+proc_5144,process,hp-one-agent-service.exe (PID 5144),5144,hp-one-agent-service.exe,19,0,
+proc_5164,process,WUDFHost.exe (PID 5164),5164,WUDFHost.exe,5,0,
+proc_5476,process,unsecapp.exe (PID 5476),5476,unsecapp.exe,3,0,
+proc_5512,process,WUDFCompanionHost.exe (PID 5512),5512,WUDFCompanionHost.exe,3,0,
+proc_5708,process,svchost.exe (PID 5708),5708,svchost.exe,10,0,
+proc_6060,process,svchost.exe (PID 6060),6060,svchost.exe,5,0,
+proc_6128,process,NgcIso.exe (PID 6128),6128,NgcIso.exe,3,0,
+proc_6164,process,svchost.exe (PID 6164),6164,svchost.exe,5,0,
+proc_6264,process,svchost.exe (PID 6264),6264,svchost.exe,17,0,
+proc_6272,process,svchost.exe (PID 6272),6272,svchost.exe,2,0,
+proc_6324,process,svchost.exe (PID 6324),6324,svchost.exe,5,0,
+proc_6372,process,spoolsv.exe (PID 6372),6372,spoolsv.exe,9,0,
+proc_6392,process,svchost.exe (PID 6392),6392,svchost.exe,19,0,
+proc_6496,process,svchost.exe (PID 6496),6496,svchost.exe,7,0,
+proc_6620,process,svchost.exe (PID 6620),6620,svchost.exe,1,0,
+proc_6652,process,AmdPpkgSvc.exe (PID 6652),6652,AmdPpkgSvc.exe,2,0,
+proc_6676,process,mDNSResponder.exe (PID 6676),6676,mDNSResponder.exe,4,0,
+proc_6684,process,GameInputRedistService.exe (PID 6684),6684,GameInputRedistService.exe,10,0,
+proc_6696,process,DtsApo4Service.exe (PID 6696),6696,DtsApo4Service.exe,6,0,
+proc_6712,process,RtkBtManServ.exe (PID 6712),6712,RtkBtManServ.exe,3,0,
+proc_6720,process,HPPrintScanDoctorService.exe (PID 6720),6720,HPPrintScanDoctorService.exe,2,0,
+proc_6728,process,HPCommRecovery.exe (PID 6728),6728,HPCommRecovery.exe,6,0,
+proc_6736,process,servicehost.exe (PID 6736),6736,servicehost.exe,89,0,
+proc_6760,process,svchost.exe (PID 6760),6760,svchost.exe,8,0,
+proc_6768,process,svchost.exe (PID 6768),6768,svchost.exe,3,0,
+proc_6776,process,svchost.exe (PID 6776),6776,svchost.exe,5,0,
+proc_6784,process,RtkAudUService64.exe (PID 6784),6784,RtkAudUService64.exe,35,0,
+proc_6792,process,svchost.exe (PID 6792),6792,svchost.exe,14,0,
+proc_6800,process,svchost.exe (PID 6800),6800,svchost.exe,8,0,
+proc_6808,process,svchost.exe (PID 6808),6808,svchost.exe,18,0,
+proc_6816,process,ETDService.exe (PID 6816),6816,ETDService.exe,4,0,
+proc_6828,process,MpDefenderCoreService.exe (PID 6828),6828,MpDefenderCoreService.exe,14,0,
+proc_6836,process,OfficeClickToRun.exe (PID 6836),6836,OfficeClickToRun.exe,24,0,
+proc_6848,process,MsMpEng.exe (PID 6848),6848,MsMpEng.exe,71,0,
+proc_7356,process,svchost.exe (PID 7356),7356,svchost.exe,7,0,
+proc_7588,process,svchost.exe (PID 7588),7588,svchost.exe,5,0,
+proc_9192,process,svchost.exe (PID 9192),9192,svchost.exe,7,0,
+proc_8304,process,svchost.exe (PID 8304),8304,svchost.exe,29,0,
+proc_8652,process,cowork-svc.exe (PID 8652),8652,cowork-svc.exe,13,0,
+proc_8632,process,svchost.exe (PID 8632),8632,svchost.exe,6,0,
+proc_5936,process,gamingservices.exe (PID 5936),5936,gamingservices.exe,20,0,
+proc_5860,process,gamingservicesnet.exe (PID 5860),5860,gamingservicesnet.exe,39,0,
+proc_9168,process,vmcompute.exe (PID 9168),9168,vmcompute.exe,2,0,
+proc_9496,process,AggregatorHost.exe (PID 9496),9496,AggregatorHost.exe,5,0,
+proc_9840,process,svchost.exe (PID 9840),9840,svchost.exe,12,0,
+proc_10028,process,svchost.exe (PID 10028),10028,svchost.exe,2,0,
+proc_9612,process,svchost.exe (PID 9612),9612,svchost.exe,2,0,
+proc_9248,process,svchost.exe (PID 9248),9248,svchost.exe,11,0,
+proc_9116,process,svchost.exe (PID 9116),9116,svchost.exe,10,0,
+proc_10544,process,RtkAudUService64.exe (PID 10544),10544,RtkAudUService64.exe,10,0,
+proc_10836,process,GameInputSvc.exe (PID 10836),10836,GameInputSvc.exe,3,0,
+proc_10864,process,GameInputSvc.exe (PID 10864),10864,GameInputSvc.exe,7,0,
+proc_11092,process,GameInputRedistService.exe (PID 11092),11092,GameInputRedistService.exe,4,45,C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe
+proc_11128,process,amdpmfserviceuser.exe (PID 11128),11128,amdpmfserviceuser.exe,4,15,C:\Windows\System32\amdpmfserviceuser.exe
+proc_11160,process,ETDCtrl.exe (PID 11160),11160,ETDCtrl.exe,13,42,C:\Windows\System32\ETDCtrl.exe
+proc_11200,process,conhost.exe (PID 11200),11200,conhost.exe,2,17,C:\Windows\System32\conhost.exe
+proc_11232,process,DefenderSessionHelper.exe (PID 11232),11232,DefenderSessionHelper.exe,1,18,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.4-0\DefenderSessionHelper.exe
+proc_8016,process,uihost.exe (PID 8016),8016,uihost.exe,66,68,C:\Program Files\McAfee\WebAdvisor\uihost.exe
+proc_7792,process,sihost.exe (PID 7792),7792,sihost.exe,16,121,C:\Windows\System32\sihost.exe
+proc_10444,process,svchost.exe (PID 10444),10444,svchost.exe,2,30,C:\Windows\System32\svchost.exe
+proc_10516,process,svchost.exe (PID 10516),10516,svchost.exe,13,81,C:\Windows\System32\svchost.exe
+proc_10656,process,svchost.exe (PID 10656),10656,svchost.exe,2,18,C:\Windows\System32\svchost.exe
+proc_10932,process,svchost.exe (PID 10932),10932,svchost.exe,11,89,C:\Windows\System32\svchost.exe
+proc_11120,process,taskhostw.exe (PID 11120),11120,taskhostw.exe,8,45,C:\Windows\System32\taskhostw.exe
+proc_11224,process,OmenInstallMonitor.exe (PID 11224),11224,OmenInstallMonitor.exe,13,0,C:\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+proc_7936,process,SystemOptimizer.exe (PID 7936),7936,SystemOptimizer.exe,17,0,C:\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+proc_11328,process,OverlayHelper.exe (PID 11328),11328,OverlayHelper.exe,25,0,C:\Program Files\HP\Overlay\OverlayHelper.exe
+proc_11432,process,svchost.exe (PID 11432),11432,svchost.exe,2,0,
+proc_11940,process,svchost.exe (PID 11940),11940,svchost.exe,14,0,
+proc_12140,process,explorer.exe (PID 12140),12140,explorer.exe,154,394,C:\Windows\explorer.exe
+proc_12172,process,CrossDeviceResume.exe (PID 12172),12172,CrossDeviceResume.exe,22,102,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+proc_12132,process,ClickToDo.exe (PID 12132),12132,ClickToDo.exe,57,130,C:\Windows\SystemApps\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy\ClickToDo.exe
+proc_12436,process,BraveCrashHandler.exe (PID 12436),12436,BraveCrashHandler.exe,3,0,
+proc_12480,process,BraveCrashHandler64.exe (PID 12480),12480,BraveCrashHandler64.exe,3,0,
+proc_13252,process,SearchIndexer.exe (PID 13252),13252,SearchIndexer.exe,10,0,
+proc_13460,process,NisSrv.exe (PID 13460),13460,NisSrv.exe,13,0,
+proc_13956,process,WorkloadsSessionManager.exe (PID 13956),13956,WorkloadsSessionManager.exe,3,0,
+proc_14052,process,WorkloadsSessionHost.exe (PID 14052),14052,WorkloadsSessionHost.exe,12,0,
+proc_14160,process,svchost.exe (PID 14160),14160,svchost.exe,7,0,
+proc_14244,process,WorkloadsSessionHost.exe (PID 14244),14244,WorkloadsSessionHost.exe,5,0,
+proc_10520,process,svchost.exe (PID 10520),10520,svchost.exe,7,92,C:\Windows\System32\svchost.exe
+proc_14380,process,SearchHost.exe (PID 14380),14380,SearchHost.exe,34,185,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+proc_14408,process,StartMenuExperienceHost.exe (PID 14408),14408,StartMenuExperienceHost.exe,50,225,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+proc_14752,process,WidgetBoard.exe (PID 14752),14752,WidgetBoard.exe,46,140,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\WidgetBoard.exe
+proc_14788,process,RuntimeBroker.exe (PID 14788),14788,RuntimeBroker.exe,14,148,C:\Windows\System32\RuntimeBroker.exe
+proc_14812,process,WorkloadsSessionHost.exe (PID 14812),14812,WorkloadsSessionHost.exe,12,0,
+proc_14820,process,svchost.exe (PID 14820),14820,svchost.exe,7,70,C:\Windows\System32\svchost.exe
+proc_14828,process,UserOOBEBroker.exe (PID 14828),14828,UserOOBEBroker.exe,5,34,C:\Windows\System32\oobe\UserOOBEBroker.exe
+proc_15260,process,WidgetService.exe (PID 15260),15260,WidgetService.exe,7,62,C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+proc_15496,process,svchost.exe (PID 15496),15496,svchost.exe,4,0,
+proc_16348,process,msedgewebview2.exe (PID 16348),16348,msedgewebview2.exe,49,124,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_15644,process,msedgewebview2.exe (PID 15644),15644,msedgewebview2.exe,8,23,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_16712,process,msedgewebview2.exe (PID 16712),16712,msedgewebview2.exe,23,42,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_16736,process,msedgewebview2.exe (PID 16736),16736,msedgewebview2.exe,35,56,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_16820,process,msedgewebview2.exe (PID 16820),16820,msedgewebview2.exe,10,14,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_17116,process,msedgewebview2.exe (PID 17116),17116,msedgewebview2.exe,32,22,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_17368,process,MicrosoftStartFeedProvider.exe (PID 17368),17368,MicrosoftStartFeedProvider.exe,12,98,C:\Program Files\WindowsApps\Microsoft.StartExperiencesApp_1.380.2.0_x64__8wekyb3d8bbwe\MicrosoftStartFeedProvider\MicrosoftStartFeedProvider.exe
+proc_8760,process,svchost.exe (PID 8760),8760,svchost.exe,7,0,
+proc_10268,process,WorkloadsSessionHost.exe (PID 10268),10268,WorkloadsSessionHost.exe,3,0,
+proc_9688,process,WorkloadsSessionHost.exe (PID 9688),9688,WorkloadsSessionHost.exe,103,0,
+proc_17632,process,WorkloadsSessionHost.exe (PID 17632),17632,WorkloadsSessionHost.exe,12,0,
+proc_17684,process,ctfmon.exe (PID 17684),17684,ctfmon.exe,16,0,C:\Windows\System32\ctfmon.exe
+proc_17696,process,TabTip.exe (PID 17696),17696,TabTip.exe,24,0,C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe
+proc_18028,process,WhatsApp.Root.exe (PID 18028),18028,WhatsApp.Root.exe,70,347,C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2636.100.0_x64__cv1g1gvanyjgm\WhatsApp.Root.exe
+proc_18220,process,RuntimeBroker.exe (PID 18220),18220,RuntimeBroker.exe,2,36,C:\Windows\System32\RuntimeBroker.exe
+proc_18664,process,msedgewebview2.exe (PID 18664),18664,msedgewebview2.exe,52,132,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_18692,process,msedgewebview2.exe (PID 18692),18692,msedgewebview2.exe,8,23,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_18876,process,msedgewebview2.exe (PID 18876),18876,msedgewebview2.exe,57,81,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_18884,process,msedgewebview2.exe (PID 18884),18884,msedgewebview2.exe,22,44,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_18944,process,msedgewebview2.exe (PID 18944),18944,msedgewebview2.exe,10,14,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_19364,process,TextInputHost.exe (PID 19364),19364,TextInputHost.exe,73,169,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+proc_18660,process,chrome.exe (PID 18660),18660,chrome.exe,51,154,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_19192,process,chrome.exe (PID 19192),19192,chrome.exe,7,21,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_19472,process,msedgewebview2.exe (PID 19472),19472,msedgewebview2.exe,35,22,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_19736,process,chrome.exe (PID 19736),19736,chrome.exe,57,84,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_19752,process,chrome.exe (PID 19752),19752,chrome.exe,25,46,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_19872,process,chrome.exe (PID 19872),19872,chrome.exe,13,19,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_20384,process,chrome.exe (PID 20384),20384,chrome.exe,29,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_5544,process,cmd.exe (PID 5544),5544,cmd.exe,1,10,C:\Windows\System32\cmd.exe
+proc_1728,process,conhost.exe (PID 1728),1728,conhost.exe,3,22,C:\Windows\System32\conhost.exe
+proc_2536,process,browserhost.exe (PID 2536),2536,browserhost.exe,50,63,C:\Program Files\McAfee\WebAdvisor\browserhost.exe
+proc_22352,process,msedgewebview2.exe (PID 22352),22352,msedgewebview2.exe,12,32,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_21660,process,SecurityHealthSystray.exe (PID 21660),21660,SecurityHealthSystray.exe,1,31,C:\Windows\System32\SecurityHealthSystray.exe
+proc_21228,process,SecurityHealthService.exe (PID 21228),21228,SecurityHealthService.exe,11,0,
+proc_22436,process,RtkAudUService64.exe (PID 22436),22436,RtkAudUService64.exe,19,58,C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_f4c5e5443290b318\RtkAudUService64.exe
+proc_23532,process,HPSystemEventUtilityBackground.exe (PID 23532),23532,HPSystemEventUtilityBackground.exe,11,164,C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+proc_22676,process,unsecapp.exe (PID 22676),22676,unsecapp.exe,3,30,C:\Windows\System32\wbem\unsecapp.exe
+proc_22848,process,HPSystemEventUtilityHost.exe (PID 22848),22848,HPSystemEventUtilityHost.exe,8,85,C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+proc_15172,process,HPMediaNetwork.exe (PID 15172),15172,HPMediaNetwork.exe,10,110,C:\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+proc_13160,process,svchost.exe (PID 13160),13160,svchost.exe,4,60,C:\Windows\System32\svchost.exe
+proc_6336,process,svchost.exe (PID 6336),6336,svchost.exe,9,0,
+proc_20392,process,uTorrent.exe (PID 20392),20392,uTorrent.exe,42,100,C:\Users\swast\AppData\Roaming\utorrent\uTorrent.exe
+proc_3620,process,utorrentie.exe (PID 3620),3620,utorrentie.exe,7,48,C:\Users\swast\AppData\Roaming\utorrent\updates\3.6.0_47254\utorrentie.exe
+proc_22000,process,utorrentie.exe (PID 22000),22000,utorrentie.exe,7,48,C:\Users\swast\AppData\Roaming\utorrent\updates\3.6.0_47254\utorrentie.exe
+proc_15156,process,msedgewebview2.exe (PID 15156),15156,msedgewebview2.exe,56,120,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_7304,process,msedgewebview2.exe (PID 7304),7304,msedgewebview2.exe,8,23,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_4356,process,msedgewebview2.exe (PID 4356),4356,msedgewebview2.exe,34,54,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_12600,process,msedgewebview2.exe (PID 12600),12600,msedgewebview2.exe,31,44,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_19488,process,msedgewebview2.exe (PID 19488),19488,msedgewebview2.exe,10,14,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_17512,process,msedgewebview2.exe (PID 17512),17512,msedgewebview2.exe,26,22,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_19928,process,msedgewebview2.exe (PID 19928),19928,msedgewebview2.exe,27,22,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_20376,process,ShellExperienceHost.exe (PID 20376),20376,ShellExperienceHost.exe,38,117,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+proc_22752,process,RuntimeBroker.exe (PID 22752),22752,RuntimeBroker.exe,12,59,C:\Windows\System32\RuntimeBroker.exe
+proc_24708,process,OmenCommandCenterBackground.exe (PID 24708),24708,OmenCommandCenterBackground.exe,112,227,C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2609.3.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+proc_25132,process,ms-teams.exe (PID 25132),25132,ms-teams.exe,92,192,C:\Program Files\WindowsApps\MSTeams_26225.1806.5074.1452_x64__8wekyb3d8bbwe\ms-teams.exe
+proc_25392,process,RuntimeBroker.exe (PID 25392),25392,RuntimeBroker.exe,3,28,C:\Windows\System32\RuntimeBroker.exe
+proc_25492,process,msedgewebview2.exe (PID 25492),25492,msedgewebview2.exe,59,140,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_25524,process,msedgewebview2.exe (PID 25524),25524,msedgewebview2.exe,8,23,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_18256,process,msedgewebview2.exe (PID 18256),18256,msedgewebview2.exe,52,77,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_23852,process,msedgewebview2.exe (PID 23852),23852,msedgewebview2.exe,21,44,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_15160,process,msedgewebview2.exe (PID 15160),15160,msedgewebview2.exe,10,14,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_9796,process,msedgewebview2.exe (PID 9796),9796,msedgewebview2.exe,33,22,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_23956,process,ms-teams.exe (PID 23956),23956,ms-teams.exe,70,167,C:\Program Files\WindowsApps\MSTeams_26225.1806.5074.1452_x64__8wekyb3d8bbwe\ms-teams.exe
+proc_23332,process,msedgewebview2.exe (PID 23332),23332,msedgewebview2.exe,12,32,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_25096,process,ollama app.exe (PID 25096),25096,ollama app.exe,14,45,C:\Users\swast\AppData\Local\Programs\Ollama\ollama app.exe
+proc_4360,process,jusched.exe (PID 4360),4360,jusched.exe,8,82,C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+proc_24996,process,ollama.exe (PID 24996),24996,ollama.exe,16,52,C:\Users\swast\AppData\Local\Programs\Ollama\ollama.exe
+proc_8364,process,conhost.exe (PID 8364),8364,conhost.exe,3,22,C:\Windows\System32\conhost.exe
+proc_13228,process,RadeonSoftware.exe (PID 13228),13228,RadeonSoftware.exe,71,203,C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.20179.0_x64__0a9344xs7nr4m\radeonsoftware\RadeonSoftware.exe
+proc_23244,process,cncmd.exe (PID 23244),23244,cncmd.exe,1,41,C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.20179.0_x64__0a9344xs7nr4m\radeonsoftware\cncmd.exe
+proc_7760,process,AMDRSServ.exe (PID 7760),7760,AMDRSServ.exe,11,83,C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.20179.0_x64__0a9344xs7nr4m\radeonsoftware\AMDRSServ.exe
+proc_8160,process,amdow.exe (PID 8160),8160,amdow.exe,24,26,C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.20179.0_x64__0a9344xs7nr4m\radeonsoftware\amdow.exe
+proc_7516,process,AMDRSSrcExt.exe (PID 7516),7516,AMDRSSrcExt.exe,26,144,C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.20179.0_x64__0a9344xs7nr4m\radeonsoftware\AMDRSSrcExt.exe
+proc_23828,process,svchost.exe (PID 23828),23828,svchost.exe,14,0,
+proc_7064,process,svchost.exe (PID 7064),7064,svchost.exe,13,0,
+proc_22900,process,svchost.exe (PID 22900),22900,svchost.exe,11,0,
+proc_23344,process,svchost.exe (PID 23344),23344,svchost.exe,11,0,
+proc_22004,process,svchost.exe (PID 22004),22004,svchost.exe,9,0,
+proc_15552,process,helper.exe (PID 15552),15552,helper.exe,34,60,C:\Users\swast\AppData\Roaming\utorrent\helper\helper.exe
+proc_12032,process,DesktopExtension.exe (PID 12032),12032,DesktopExtension.exe,13,108,C:\Program Files\WindowsApps\AD2F1837.myHP_60.52634.13225.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+proc_5852,process,SystemSettings.exe (PID 5852),5852,SystemSettings.exe,65,285,C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+proc_19336,process,ApplicationFrameHost.exe (PID 19336),19336,ApplicationFrameHost.exe,20,82,C:\Windows\System32\ApplicationFrameHost.exe
+proc_21948,process,svchost.exe (PID 21948),21948,svchost.exe,2,0,
+proc_7568,process,svchost.exe (PID 7568),7568,svchost.exe,6,33,C:\Windows\System32\svchost.exe
+proc_3780,process,svchost.exe (PID 3780),3780,svchost.exe,14,0,
+proc_22292,process,svchost.exe (PID 22292),22292,svchost.exe,5,0,
+proc_13664,process,jucheck.exe (PID 13664),13664,jucheck.exe,11,72,C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+proc_10184,process,chrome.exe (PID 10184),10184,chrome.exe,15,37,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_23132,process,svchost.exe (PID 23132),23132,svchost.exe,1,0,
+proc_25688,process,AppActions.exe (PID 25688),25688,AppActions.exe,7,69,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe
+proc_4688,process,TouchpointGpuInfo.exe (PID 4688),4688,TouchpointGpuInfo.exe,13,0,
+proc_15532,process,svchost.exe (PID 15532),15532,svchost.exe,6,50,C:\Windows\System32\svchost.exe
+proc_5812,process,SystrayComponent.exe (PID 5812),5812,SystrayComponent.exe,4,65,C:\Program Files\WindowsApps\29645FreeConnectedLimited.X-VPN-FreeUnlimitedVPNPr_30.2.1.0_x64__qjvpctbgym0d0\Win32\SystrayComponent.exe
+proc_3292,process,svchost.exe (PID 3292),3292,svchost.exe,3,0,
+proc_18592,process,svchost.exe (PID 18592),18592,svchost.exe,7,0,
+proc_26424,process,dasHost.exe (PID 26424),26424,dasHost.exe,1,0,
+proc_24388,process,chrome.exe (PID 24388),24388,chrome.exe,30,78,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_25960,process,backgroundTaskHost.exe (PID 25960),25960,backgroundTaskHost.exe,10,108,C:\Windows\System32\backgroundTaskHost.exe
+proc_20804,process,RuntimeBroker.exe (PID 20804),20804,RuntimeBroker.exe,2,65,C:\Windows\System32\RuntimeBroker.exe
+proc_18612,process,dllhost.exe (PID 18612),18612,dllhost.exe,2,20,C:\Windows\System32\dllhost.exe
+proc_18196,process,xvpn.exe (PID 18196),18196,xvpn.exe,25,78,C:\Program Files\WindowsApps\29645FreeConnectedLimited.X-VPN-FreeUnlimitedVPNPr_30.2.1.0_x64__qjvpctbgym0d0\xvpn.exe
+proc_10380,process,OneDrive.exe (PID 10380),10380,OneDrive.exe,37,188,C:\Program Files\Microsoft OneDrive\OneDrive.exe
+proc_27160,process,OneDrive.Sync.Service.exe (PID 27160),27160,OneDrive.Sync.Service.exe,37,132,C:\Program Files\Microsoft OneDrive\26.163.0823.0004\OneDrive.Sync.Service.exe
+proc_16236,process,FileSyncHelper.exe (PID 16236),16236,FileSyncHelper.exe,8,0,
+proc_9804,process,SDXHelper.exe (PID 9804),9804,SDXHelper.exe,19,96,C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+proc_22824,process,brave.exe (PID 22824),22824,brave.exe,49,145,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_21236,process,brave.exe (PID 21236),21236,brave.exe,7,21,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_9332,process,brave.exe (PID 9332),9332,brave.exe,51,79,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_29300,process,brave.exe (PID 29300),29300,brave.exe,22,47,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_12248,process,brave.exe (PID 12248),12248,brave.exe,11,21,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_20500,process,brave.exe (PID 20500),20500,brave.exe,27,21,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_15188,process,cmd.exe (PID 15188),15188,cmd.exe,1,10,C:\Windows\System32\cmd.exe
+proc_29164,process,conhost.exe (PID 29164),29164,conhost.exe,3,22,C:\Windows\System32\conhost.exe
+proc_26040,process,browserhost.exe (PID 26040),26040,browserhost.exe,46,42,C:\Program Files\McAfee\WebAdvisor\browserhost.exe
+proc_16392,process,brave.exe (PID 16392),16392,brave.exe,12,38,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_26476,process,brave.exe (PID 26476),26476,brave.exe,26,21,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_29672,process,brave.exe (PID 29672),29672,brave.exe,29,79,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_29028,process,chrome.exe (PID 29028),29028,chrome.exe,28,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_8852,process,XboxPcAppFT.exe (PID 8852),8852,XboxPcAppFT.exe,10,116,C:\Program Files\WindowsApps\Microsoft.GamingApp_2609.1001.16.0_x64__8wekyb3d8bbwe\XboxPcAppFT.exe
+proc_2412,process,svchost.exe (PID 2412),2412,svchost.exe,3,0,
+proc_28996,process,chrome.exe (PID 28996),28996,chrome.exe,28,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_10044,process,chrome.exe (PID 10044),10044,chrome.exe,30,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_26864,process,svchost.exe (PID 26864),26864,svchost.exe,4,0,
+proc_13040,process,svchost.exe (PID 13040),13040,svchost.exe,5,0,
+proc_29424,process,chrome.exe (PID 29424),29424,chrome.exe,29,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_28764,process,brave.exe (PID 28764),28764,brave.exe,26,21,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_11756,process,brave.exe (PID 11756),11756,brave.exe,28,21,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_9532,process,Antigravity.exe (PID 9532),9532,Antigravity.exe,48,137,C:\Users\swast\AppData\Local\Programs\antigravity\Antigravity.exe
+proc_29268,process,Antigravity.exe (PID 29268),29268,Antigravity.exe,34,64,C:\Users\swast\AppData\Local\Programs\antigravity\Antigravity.exe
+proc_5836,process,Antigravity.exe (PID 5836),5836,Antigravity.exe,20,47,C:\Users\swast\AppData\Local\Programs\antigravity\Antigravity.exe
+proc_14956,process,language_server.exe (PID 14956),14956,language_server.exe,24,47,C:\Users\swast\AppData\Local\Programs\antigravity\resources\bin\language_server.exe
+proc_29688,process,conhost.exe (PID 29688),29688,conhost.exe,2,17,C:\Windows\System32\conhost.exe
+proc_29068,process,Antigravity.exe (PID 29068),29068,Antigravity.exe,30,28,C:\Users\swast\AppData\Local\Programs\antigravity\Antigravity.exe
+proc_18560,process,Antigravity.exe (PID 18560),18560,Antigravity.exe,10,39,C:\Users\swast\AppData\Local\Programs\antigravity\Antigravity.exe
+proc_27832,process,Antigravity.exe (PID 27832),27832,Antigravity.exe,27,78,C:\Users\swast\AppData\Local\Programs\antigravity\Antigravity.exe
+proc_3644,process,FileCoAuth.exe (PID 3644),3644,FileCoAuth.exe,6,73,C:\Program Files\Microsoft OneDrive\26.163.0823.0004\FileCoAuth.exe
+proc_1488,process,chrome.exe (PID 1488),1488,chrome.exe,29,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_7828,process,brave.exe (PID 7828),7828,brave.exe,29,21,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_27052,process,brave.exe (PID 27052),27052,brave.exe,9,30,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+proc_27680,process,chrome.exe (PID 27680),27680,chrome.exe,28,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_12048,process,chrome.exe (PID 12048),12048,chrome.exe,30,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_23804,process,mscopilot.exe (PID 23804),23804,mscopilot.exe,61,137,C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+proc_8272,process,mscopilot.exe (PID 8272),8272,mscopilot.exe,8,23,C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+proc_26068,process,mscopilot.exe (PID 26068),26068,mscopilot.exe,31,52,C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+proc_24912,process,mscopilot.exe (PID 24912),24912,mscopilot.exe,22,44,C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+proc_15136,process,mscopilot.exe (PID 15136),15136,mscopilot.exe,11,14,C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+proc_29248,process,svchost.exe (PID 29248),29248,svchost.exe,3,0,
+proc_5432,process,msedgewebview2.exe (PID 5432),5432,msedgewebview2.exe,31,22,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\153.0.4234.48\msedgewebview2.exe
+proc_26588,process,chrome.exe (PID 26588),26588,chrome.exe,23,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_13552,process,chrome.exe (PID 13552),13552,chrome.exe,28,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_8440,process,chrome.exe (PID 8440),8440,chrome.exe,27,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_16292,process,chrome.exe (PID 16292),16292,chrome.exe,27,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_7000,process,chrome.exe (PID 7000),7000,chrome.exe,28,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_24392,process,chrome.exe (PID 24392),24392,chrome.exe,29,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_27468,process,SnippingTool.exe (PID 27468),27468,SnippingTool.exe,41,132,C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2607.23.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe
+proc_10960,process,svchost.exe (PID 10960),10960,svchost.exe,12,0,
+proc_28884,process,svchost.exe (PID 28884),28884,svchost.exe,6,0,
+proc_2444,process,chrome.exe (PID 2444),2444,chrome.exe,31,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_25172,process,chrome.exe (PID 25172),25172,chrome.exe,29,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_28504,process,Notepad.exe (PID 28504),28504,Notepad.exe,63,157,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+proc_27520,process,ShellHost.exe (PID 27520),27520,ShellHost.exe,22,75,C:\Windows\System32\ShellHost.exe
+proc_10320,process,chrome.exe (PID 10320),10320,chrome.exe,14,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_28200,process,WmiPrvSE.exe (PID 28200),28200,WmiPrvSE.exe,10,0,
+proc_27272,process,chrome.exe (PID 27272),27272,chrome.exe,28,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_27244,process,chrome.exe (PID 27244),27244,chrome.exe,16,20,C:\Program Files\Google\Chrome\Application\chrome.exe
+proc_11192,process,RuntimeBroker.exe (PID 11192),11192,RuntimeBroker.exe,8,25,C:\Windows\System32\RuntimeBroker.exe
+proc_22144,process,sppsvc.exe (PID 22144),22144,sppsvc.exe,11,0,
+proc_27824,process,audiodg.exe (PID 27824),27824,audiodg.exe,16,0,C:\Windows\System32\audiodg.exe
+proc_27384,process,powershell.exe (PID 27384),27384,powershell.exe,25,75,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+proc_30568,process,telemetry_engine.exe (PID 30568),30568,telemetry_engine.exe,4,16,C:\Users\swast\OneDrive\Desktop\My Folder\VIT ENGENEERING\SEM 3\IDP\bin\telemetry_engine.exe
+mem_8016_7ffef8c60000,memory_region,Unbacked Mem (H=3.15),8016,mem_8016_7ffef8c60000,3.1524,65536,PAGE_EXECUTE_READ
+mem_8016_7fff4b9b0000,memory_region,Unbacked Mem (H=3.36),8016,mem_8016_7fff4b9b0000,3.3625,65536,PAGE_EXECUTE_READ
+mem_12140_7ff5fd211000,memory_region,Unbacked Mem (H=2.86),12140,mem_12140_7ff5fd211000,2.8641,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd221000,memory_region,Unbacked Mem (H=3.45),12140,mem_12140_7ff5fd221000,3.452,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd231000,memory_region,Unbacked Mem (H=2.35),12140,mem_12140_7ff5fd231000,2.3476,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd241000,memory_region,Unbacked Mem (H=1.57),12140,mem_12140_7ff5fd241000,1.5717,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd251000,memory_region,Unbacked Mem (H=3.45),12140,mem_12140_7ff5fd251000,3.452,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd261000,memory_region,Unbacked Mem (H=3.74),12140,mem_12140_7ff5fd261000,3.7401,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd271000,memory_region,Unbacked Mem (H=3.42),12140,mem_12140_7ff5fd271000,3.4229,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd281000,memory_region,Unbacked Mem (H=3.45),12140,mem_12140_7ff5fd281000,3.452,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd291000,memory_region,Unbacked Mem (H=1.09),12140,mem_12140_7ff5fd291000,1.094,4096,PAGE_EXECUTE_READ
+mem_12140_7ff5fd2a1000,memory_region,Unbacked Mem (H=2.86),12140,mem_12140_7ff5fd2a1000,2.8641,4096,PAGE_EXECUTE_READ
+mem_14380_7ff56e921000,memory_region,Unbacked Mem (H=3.95),14380,mem_14380_7ff56e921000,3.9533,4096,PAGE_EXECUTE_READ
+mem_14380_7ff56e931000,memory_region,Unbacked Mem (H=3.80),14380,mem_14380_7ff56e931000,3.796,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be6f1000,memory_region,Unbacked Mem (H=1.51),14752,mem_14752_7ff5be6f1000,1.512,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be701000,memory_region,Unbacked Mem (H=3.45),14752,mem_14752_7ff5be701000,3.452,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be711000,memory_region,Unbacked Mem (H=1.57),14752,mem_14752_7ff5be711000,1.5717,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be721000,memory_region,Unbacked Mem (H=2.35),14752,mem_14752_7ff5be721000,2.3476,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be731000,memory_region,Unbacked Mem (H=3.45),14752,mem_14752_7ff5be731000,3.452,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be741000,memory_region,Unbacked Mem (H=3.74),14752,mem_14752_7ff5be741000,3.7401,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be751000,memory_region,Unbacked Mem (H=3.42),14752,mem_14752_7ff5be751000,3.4229,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be761000,memory_region,Unbacked Mem (H=1.09),14752,mem_14752_7ff5be761000,1.094,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be771000,memory_region,Unbacked Mem (H=3.45),14752,mem_14752_7ff5be771000,3.452,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be781000,memory_region,Unbacked Mem (H=3.95),14752,mem_14752_7ff5be781000,3.9533,4096,PAGE_EXECUTE_READ
+mem_14752_7ff5be791000,memory_region,Unbacked Mem (H=3.80),14752,mem_14752_7ff5be791000,3.796,4096,PAGE_EXECUTE_READ
+mem_16736_233975f2000,memory_region,Unbacked Mem (H=1.37),16736,mem_16736_233975f2000,1.3697,4096,PAGE_EXECUTE_READ
+mem_16736_7fff57b30000,memory_region,Unbacked Mem (H=0.24),16736,mem_16736_7fff57b30000,0.239,4096,PAGE_EXECUTE_READ
+mem_16820_2540859e000,memory_region,Unbacked Mem (H=1.37),16820,mem_16820_2540859e000,1.3697,4096,PAGE_EXECUTE_READ
+mem_17116_2d5e35de000,memory_region,Unbacked Mem (H=0.87),17116,mem_17116_2d5e35de000,0.8694,4096,PAGE_EXECUTE_READ
+mem_17116_36a4aa330000,memory_region,Unbacked Mem (H=0.09),17116,mem_17116_36a4aa330000,0.0899,4096,PAGE_EXECUTE_READ
+mem_17116_36a4aa331000,memory_region,Unbacked Mem (H=5.08),17116,mem_17116_36a4aa331000,5.0751,94208,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa3fc000,memory_region,Unbacked Mem (H=6.06),17116,mem_17116_36a4aa3fc000,6.0577,12288,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa645000,memory_region,Unbacked Mem (H=6.32),17116,mem_17116_36a4aa645000,6.3211,4096,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa649000,memory_region,Unbacked Mem (H=6.55),17116,mem_17116_36a4aa649000,6.5517,1150976,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa7d4000,memory_region,Unbacked Mem (H=6.09),17116,mem_17116_36a4aa7d4000,6.0858,16384,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa7da000,memory_region,Unbacked Mem (H=6.20),17116,mem_17116_36a4aa7da000,6.2019,8192,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa7de000,memory_region,Unbacked Mem (H=5.99),17116,mem_17116_36a4aa7de000,5.9878,4096,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa7e8000,memory_region,Unbacked Mem (H=6.06),17116,mem_17116_36a4aa7e8000,6.0629,12288,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa7ec000,memory_region,Unbacked Mem (H=6.10),17116,mem_17116_36a4aa7ec000,6.1002,16384,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa800000,memory_region,Unbacked Mem (H=6.08),17116,mem_17116_36a4aa800000,6.0782,28672,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa80c000,memory_region,Unbacked Mem (H=6.35),17116,mem_17116_36a4aa80c000,6.3467,53248,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa81b000,memory_region,Unbacked Mem (H=6.20),17116,mem_17116_36a4aa81b000,6.2031,77824,PAGE_EXECUTE_READWRITE
+mem_17116_36a4aa830000,memory_region,Unbacked Mem (H=6.25),17116,mem_17116_36a4aa830000,6.2535,102400,PAGE_EXECUTE_READWRITE
+mem_17116_7ffeb6500000,memory_region,Unbacked Mem (H=0.09),17116,mem_17116_7ffeb6500000,0.0899,4096,PAGE_EXECUTE_READ
+mem_17116_7ffeb6540000,memory_region,Unbacked Mem (H=5.97),17116,mem_17116_7ffeb6540000,5.9734,8912896,PAGE_EXECUTE_READWRITE
+mem_17116_7fff57b30000,memory_region,Unbacked Mem (H=0.08),17116,mem_17116_7fff57b30000,0.0825,4096,PAGE_EXECUTE_READ
+mem_18028_13b67a00000,memory_region,Unbacked Mem (H=0.77),18028,mem_18028_13b67a00000,0.7661,4096,PAGE_EXECUTE_READWRITE
+mem_18028_7ff5bb711000,memory_region,Unbacked Mem (H=2.88),18028,mem_18028_7ff5bb711000,2.8809,4096,PAGE_EXECUTE_READ
+mem_18028_7ff5bb721000,memory_region,Unbacked Mem (H=2.90),18028,mem_18028_7ff5bb721000,2.8979,4096,PAGE_EXECUTE_READ
+mem_18028_7ff5bb731000,memory_region,Unbacked Mem (H=2.37),18028,mem_18028_7ff5bb731000,2.3715,4096,PAGE_EXECUTE_READ
+mem_18028_7ff5bb741000,memory_region,Unbacked Mem (H=1.09),18028,mem_18028_7ff5bb741000,1.094,4096,PAGE_EXECUTE_READ
+mem_18876_258d7103000,memory_region,Unbacked Mem (H=1.37),18876,mem_18876_258d7103000,1.3697,4096,PAGE_EXECUTE_READ
+mem_18876_7ff589d21000,memory_region,Unbacked Mem (H=1.09),18876,mem_18876_7ff589d21000,1.094,4096,PAGE_EXECUTE_READ
+mem_18876_7fff57b30000,memory_region,Unbacked Mem (H=0.24),18876,mem_18876_7fff57b30000,0.239,4096,PAGE_EXECUTE_READ
+mem_18944_1c9d4a14000,memory_region,Unbacked Mem (H=1.37),18944,mem_18944_1c9d4a14000,1.3697,4096,PAGE_EXECUTE_READ
+mem_19364_2b209ac0000,memory_region,Unbacked Mem (H=3.92),19364,mem_19364_2b209ac0000,3.9197,16384,PAGE_EXECUTE_READ
+mem_19364_2b209c00000,memory_region,Unbacked Mem (H=2.10),19364,mem_19364_2b209c00000,2.099,8192,PAGE_EXECUTE_READ
+mem_19364_2b20b000000,memory_region,Unbacked Mem (H=5.05),19364,mem_19364_2b20b000000,5.0523,122880,PAGE_EXECUTE_READ
+mem_19364_2b20b020000,memory_region,Unbacked Mem (H=5.41),19364,mem_19364_2b20b020000,5.4083,122880,PAGE_EXECUTE_READ
+mem_19364_2b20b040000,memory_region,Unbacked Mem (H=5.27),19364,mem_19364_2b20b040000,5.2652,122880,PAGE_EXECUTE_READ
+mem_19364_2b20b060000,memory_region,Unbacked Mem (H=5.20),19364,mem_19364_2b20b060000,5.1991,32768,PAGE_EXECUTE_READ
+mem_19364_2b20b06a000,memory_region,Unbacked Mem (H=5.65),19364,mem_19364_2b20b06a000,5.6521,77824,PAGE_EXECUTE_READ
+mem_19364_2b20b080000,memory_region,Unbacked Mem (H=5.44),19364,mem_19364_2b20b080000,5.4399,122880,PAGE_EXECUTE_READ
+mem_19364_2b20b0a0000,memory_region,Unbacked Mem (H=5.32),19364,mem_19364_2b20b0a0000,5.3207,122880,PAGE_EXECUTE_READ
+mem_19364_2b20b0c0000,memory_region,Unbacked Mem (H=5.34),19364,mem_19364_2b20b0c0000,5.3384,122880,PAGE_EXECUTE_READ
+mem_19364_2b20b0e0000,memory_region,Unbacked Mem (H=5.89),19364,mem_19364_2b20b0e0000,5.8855,122880,PAGE_EXECUTE_READ
+mem_19364_2b20b100000,memory_region,Unbacked Mem (H=5.70),19364,mem_19364_2b20b100000,5.697,122880,PAGE_EXECUTE_READ
+mem_19364_2b20b120000,memory_region,Unbacked Mem (H=5.08),19364,mem_19364_2b20b120000,5.0757,118784,PAGE_EXECUTE_READ
+mem_19364_2b20b140000,memory_region,Unbacked Mem (H=5.55),19364,mem_19364_2b20b140000,5.5492,36864,PAGE_EXECUTE_READ
+mem_19364_2b20b14a000,memory_region,Unbacked Mem (H=5.97),19364,mem_19364_2b20b14a000,5.9685,16384,PAGE_EXECUTE_READ
+mem_19364_2b20b14f000,memory_region,Unbacked Mem (H=5.47),19364,mem_19364_2b20b14f000,5.4654,32768,PAGE_EXECUTE_READ
+mem_19472_1cb0bc60000,memory_region,Unbacked Mem (H=0.87),19472,mem_19472_1cb0bc60000,0.8694,4096,PAGE_EXECUTE_READ
+mem_19472_40fc43360000,memory_region,Unbacked Mem (H=0.09),19472,mem_19472_40fc43360000,0.0902,4096,PAGE_EXECUTE_READ
+mem_19472_40fc43361000,memory_region,Unbacked Mem (H=5.55),19472,mem_19472_40fc43361000,5.5521,438272,PAGE_EXECUTE_READWRITE
+mem_19472_40fc434a0000,memory_region,Unbacked Mem (H=5.84),19472,mem_19472_40fc434a0000,5.844,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc434c1000,memory_region,Unbacked Mem (H=5.82),19472,mem_19472_40fc434c1000,5.8157,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc435ad000,memory_region,Unbacked Mem (H=6.06),19472,mem_19472_40fc435ad000,6.0563,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc435b6000,memory_region,Unbacked Mem (H=5.90),19472,mem_19472_40fc435b6000,5.904,8192,PAGE_EXECUTE_READWRITE
+mem_19472_40fc43604000,memory_region,Unbacked Mem (H=5.89),19472,mem_19472_40fc43604000,5.8915,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc43718000,memory_region,Unbacked Mem (H=5.88),19472,mem_19472_40fc43718000,5.8752,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc439c4000,memory_region,Unbacked Mem (H=5.80),19472,mem_19472_40fc439c4000,5.7978,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc439cd000,memory_region,Unbacked Mem (H=5.81),19472,mem_19472_40fc439cd000,5.8138,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc439d8000,memory_region,Unbacked Mem (H=5.92),19472,mem_19472_40fc439d8000,5.9187,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc43add000,memory_region,Unbacked Mem (H=4.27),19472,mem_19472_40fc43add000,4.2686,4096,PAGE_EXECUTE_READWRITE
+mem_19472_40fc43d10000,memory_region,Unbacked Mem (H=0.09),19472,mem_19472_40fc43d10000,0.0897,4096,PAGE_EXECUTE_READ
+mem_19472_40fc43d11000,memory_region,Unbacked Mem (H=5.07),19472,mem_19472_40fc43d11000,5.0717,106496,PAGE_EXECUTE_READWRITE
+mem_19472_7ffeb6500000,memory_region,Unbacked Mem (H=0.09),19472,mem_19472_7ffeb6500000,0.0897,4096,PAGE_EXECUTE_READ
+mem_19472_7ffeb6540000,memory_region,Unbacked Mem (H=5.89),19472,mem_19472_7ffeb6540000,5.8873,39059456,PAGE_EXECUTE_READWRITE
+mem_19472_7fff57b30000,memory_region,Unbacked Mem (H=0.08),19472,mem_19472_7fff57b30000,0.0825,4096,PAGE_EXECUTE_READ
+mem_19736_2dabd680000,memory_region,Unbacked Mem (H=0.55),19736,mem_19736_2dabd680000,0.5535,4096,PAGE_EXECUTE_READ
+mem_19736_7ff5db1d1000,memory_region,Unbacked Mem (H=1.09),19736,mem_19736_7ff5db1d1000,1.094,4096,PAGE_EXECUTE_READ
+mem_19872_1a328e3d000,memory_region,Unbacked Mem (H=0.55),19872,mem_19872_1a328e3d000,0.5535,4096,PAGE_EXECUTE_READ
+mem_20384_193d63eb000,memory_region,Unbacked Mem (H=0.60),20384,mem_20384_193d63eb000,0.6039,4096,PAGE_EXECUTE_READ
+mem_20384_2566f0270000,memory_region,Unbacked Mem (H=0.09),20384,mem_20384_2566f0270000,0.0892,4096,PAGE_EXECUTE_READ
+mem_20384_2566f0271000,memory_region,Unbacked Mem (H=6.18),20384,mem_20384_2566f0271000,6.1761,520192,PAGE_EXECUTE_READWRITE
+mem_20384_7ffee0000000,memory_region,Unbacked Mem (H=0.09),20384,mem_20384_7ffee0000000,0.089,4096,PAGE_EXECUTE_READ
+mem_20384_7ffee0040000,memory_region,Unbacked Mem (H=4.59),20384,mem_20384_7ffee0040000,4.5925,1835008,PAGE_EXECUTE_READWRITE
+mem_22352_27802fce000,memory_region,Unbacked Mem (H=1.37),22352,mem_22352_27802fce000,1.3697,4096,PAGE_EXECUTE_READ
+mem_23532_2bcadb00000,memory_region,Unbacked Mem (H=0.78),23532,mem_23532_2bcadb00000,0.7848,4096,PAGE_EXECUTE_READWRITE
+mem_23532_2bcadd00000,memory_region,Unbacked Mem (H=0.87),23532,mem_23532_2bcadd00000,0.8741,4096,PAGE_EXECUTE_READWRITE
+mem_23532_2bcade00000,memory_region,Unbacked Mem (H=1.58),23532,mem_23532_2bcade00000,1.5797,16384,PAGE_EXECUTE_READWRITE
+mem_23532_2bcade13000,memory_region,Unbacked Mem (H=0.78),23532,mem_23532_2bcade13000,0.784,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ff4eb740000,memory_region,Unbacked Mem (H=0.41),23532,mem_23532_7ff4eb740000,0.4143,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ff4eb750000,memory_region,Unbacked Mem (H=0.16),23532,mem_23532_7ff4eb750000,0.1613,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ff4eb760000,memory_region,Unbacked Mem (H=0.15),23532,mem_23532_7ff4eb760000,0.1547,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee57f3000,memory_region,Unbacked Mem (H=0.98),23532,mem_23532_7ffee57f3000,0.984,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee57fd000,memory_region,Unbacked Mem (H=4.77),23532,mem_23532_7ffee57fd000,4.7734,12288,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee580d000,memory_region,Unbacked Mem (H=4.66),23532,mem_23532_7ffee580d000,4.6645,12288,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee581b000,memory_region,Unbacked Mem (H=2.41),23532,mem_23532_7ffee581b000,2.4117,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee581d000,memory_region,Unbacked Mem (H=5.10),23532,mem_23532_7ffee581d000,5.1041,8192,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee584c000,memory_region,Unbacked Mem (H=4.90),23532,mem_23532_7ffee584c000,4.8954,20480,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee58ac000,memory_region,Unbacked Mem (H=0.51),23532,mem_23532_7ffee58ac000,0.513,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee58b0000,memory_region,Unbacked Mem (H=2.80),23532,mem_23532_7ffee58b0000,2.7996,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee58d6000,memory_region,Unbacked Mem (H=3.93),23532,mem_23532_7ffee58d6000,3.9268,8192,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee5910000,memory_region,Unbacked Mem (H=6.25),23532,mem_23532_7ffee5910000,6.252,69632,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee59c0000,memory_region,Unbacked Mem (H=0.31),23532,mem_23532_7ffee59c0000,0.3076,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee59e0000,memory_region,Unbacked Mem (H=4.26),23532,mem_23532_7ffee59e0000,4.2595,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee5a00000,memory_region,Unbacked Mem (H=4.11),23532,mem_23532_7ffee5a00000,4.1059,4096,PAGE_EXECUTE_READWRITE
+mem_23532_7ffee5a10000,memory_region,Unbacked Mem (H=1.74),23532,mem_23532_7ffee5a10000,1.7363,4096,PAGE_EXECUTE_READWRITE
+mem_22848_1dc67b00000,memory_region,Unbacked Mem (H=0.79),22848,mem_22848_1dc67b00000,0.7871,4096,PAGE_EXECUTE_READWRITE
+mem_22848_1dc67f00000,memory_region,Unbacked Mem (H=0.85),22848,mem_22848_1dc67f00000,0.8514,4096,PAGE_EXECUTE_READWRITE
+mem_22848_1dc6c000000,memory_region,Unbacked Mem (H=1.46),22848,mem_22848_1dc6c000000,1.4572,12288,PAGE_EXECUTE_READWRITE
+mem_22848_1dc6c013000,memory_region,Unbacked Mem (H=1.26),22848,mem_22848_1dc6c013000,1.2612,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ff479af0000,memory_region,Unbacked Mem (H=0.41),22848,mem_22848_7ff479af0000,0.4143,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ff479b00000,memory_region,Unbacked Mem (H=0.16),22848,mem_22848_7ff479b00000,0.1613,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ff479b10000,memory_region,Unbacked Mem (H=0.15),22848,mem_22848_7ff479b10000,0.1547,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee5803000,memory_region,Unbacked Mem (H=0.88),22848,mem_22848_7ffee5803000,0.8804,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee580d000,memory_region,Unbacked Mem (H=4.86),22848,mem_22848_7ffee580d000,4.864,12288,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee581d000,memory_region,Unbacked Mem (H=4.81),22848,mem_22848_7ffee581d000,4.8117,12288,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee582b000,memory_region,Unbacked Mem (H=1.01),22848,mem_22848_7ffee582b000,1.007,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee582d000,memory_region,Unbacked Mem (H=3.52),22848,mem_22848_7ffee582d000,3.5175,8192,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee585c000,memory_region,Unbacked Mem (H=4.26),22848,mem_22848_7ffee585c000,4.2564,16384,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee58bc000,memory_region,Unbacked Mem (H=0.52),22848,mem_22848_7ffee58bc000,0.5163,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee58c0000,memory_region,Unbacked Mem (H=3.09),22848,mem_22848_7ffee58c0000,3.0937,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee58e6000,memory_region,Unbacked Mem (H=3.67),22848,mem_22848_7ffee58e6000,3.6743,8192,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee5920000,memory_region,Unbacked Mem (H=6.18),22848,mem_22848_7ffee5920000,6.1757,57344,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee59d0000,memory_region,Unbacked Mem (H=3.85),22848,mem_22848_7ffee59d0000,3.85,4096,PAGE_EXECUTE_READWRITE
+mem_22848_7ffee59e0000,memory_region,Unbacked Mem (H=3.45),22848,mem_22848_7ffee59e0000,3.4468,8192,PAGE_EXECUTE_READWRITE
+mem_15172_18d57360000,memory_region,Unbacked Mem (H=1.55),15172,mem_15172_18d57360000,1.5522,20480,PAGE_EXECUTE_READWRITE
+mem_15172_18d58950000,memory_region,Unbacked Mem (H=0.63),15172,mem_15172_18d58950000,0.6311,8192,PAGE_EXECUTE_READWRITE
+mem_15172_18d58a10000,memory_region,Unbacked Mem (H=0.38),15172,mem_15172_18d58a10000,0.3782,8192,PAGE_EXECUTE_READWRITE
+mem_15172_7ff4c40f0000,memory_region,Unbacked Mem (H=0.41),15172,mem_15172_7ff4c40f0000,0.4143,4096,PAGE_EXECUTE_READWRITE
+mem_15172_7ff4c4100000,memory_region,Unbacked Mem (H=0.16),15172,mem_15172_7ff4c4100000,0.1613,4096,PAGE_EXECUTE_READWRITE
+mem_15172_7ff4c4110000,memory_region,Unbacked Mem (H=0.15),15172,mem_15172_7ff4c4110000,0.1547,4096,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee5823000,memory_region,Unbacked Mem (H=1.39),15172,mem_15172_7ffee5823000,1.3861,4096,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee582d000,memory_region,Unbacked Mem (H=4.87),15172,mem_15172_7ffee582d000,4.8658,12288,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee583d000,memory_region,Unbacked Mem (H=4.72),15172,mem_15172_7ffee583d000,4.7221,12288,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee584b000,memory_region,Unbacked Mem (H=2.21),15172,mem_15172_7ffee584b000,2.2125,4096,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee584d000,memory_region,Unbacked Mem (H=4.83),15172,mem_15172_7ffee584d000,4.8327,12288,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee587c000,memory_region,Unbacked Mem (H=4.80),15172,mem_15172_7ffee587c000,4.8042,24576,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee58dc000,memory_region,Unbacked Mem (H=0.74),15172,mem_15172_7ffee58dc000,0.7448,4096,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee58e0000,memory_region,Unbacked Mem (H=3.84),15172,mem_15172_7ffee58e0000,3.8381,4096,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee5906000,memory_region,Unbacked Mem (H=4.42),15172,mem_15172_7ffee5906000,4.4221,8192,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee5940000,memory_region,Unbacked Mem (H=6.09),15172,mem_15172_7ffee5940000,6.0924,57344,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee59f0000,memory_region,Unbacked Mem (H=3.96),15172,mem_15172_7ffee59f0000,3.9627,8192,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee5a00000,memory_region,Unbacked Mem (H=0.31),15172,mem_15172_7ffee5a00000,0.3067,4096,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee5a20000,memory_region,Unbacked Mem (H=3.72),15172,mem_15172_7ffee5a20000,3.7183,8192,PAGE_EXECUTE_READWRITE
+mem_15172_7ffee5a40000,memory_region,Unbacked Mem (H=4.26),15172,mem_15172_7ffee5a40000,4.2597,24576,PAGE_EXECUTE_READWRITE
+mem_4356_20b17928000,memory_region,Unbacked Mem (H=1.37),4356,mem_4356_20b17928000,1.3697,4096,PAGE_EXECUTE_READ
+mem_4356_7fff57b30000,memory_region,Unbacked Mem (H=0.24),4356,mem_4356_7fff57b30000,0.239,4096,PAGE_EXECUTE_READ
+mem_19488_14cfde48000,memory_region,Unbacked Mem (H=1.37),19488,mem_19488_14cfde48000,1.3697,4096,PAGE_EXECUTE_READ
+mem_17512_1b525774000,memory_region,Unbacked Mem (H=0.87),17512,mem_17512_1b525774000,0.8694,4096,PAGE_EXECUTE_READ
+mem_17512_7ffeb6500000,memory_region,Unbacked Mem (H=0.09),17512,mem_17512_7ffeb6500000,0.0897,4096,PAGE_EXECUTE_READ
+mem_17512_7ffeb6540000,memory_region,Unbacked Mem (H=1.57),17512,mem_17512_7ffeb6540000,1.5661,1572864,PAGE_EXECUTE_READWRITE
+mem_17512_7fff57b30000,memory_region,Unbacked Mem (H=0.08),17512,mem_17512_7fff57b30000,0.0825,4096,PAGE_EXECUTE_READ
+mem_19928_1cd1fac8000,memory_region,Unbacked Mem (H=0.87),19928,mem_19928_1cd1fac8000,0.8694,4096,PAGE_EXECUTE_READ
+mem_19928_7ffeb6500000,memory_region,Unbacked Mem (H=0.09),19928,mem_19928_7ffeb6500000,0.0897,4096,PAGE_EXECUTE_READ
+mem_19928_7ffeb6540000,memory_region,Unbacked Mem (H=3.16),19928,mem_19928_7ffeb6540000,3.1604,1310720,PAGE_EXECUTE_READWRITE
+mem_19928_7fff57b30000,memory_region,Unbacked Mem (H=0.08),19928,mem_19928_7fff57b30000,0.0825,4096,PAGE_EXECUTE_READ
+mem_24708_1a4f2b00000,memory_region,Unbacked Mem (H=0.78),24708,mem_24708_1a4f2b00000,0.7832,4096,PAGE_EXECUTE_READWRITE
+mem_24708_1a4f7000000,memory_region,Unbacked Mem (H=0.93),24708,mem_24708_1a4f7000000,0.9323,4096,PAGE_EXECUTE_READWRITE
+mem_24708_1a4f7100000,memory_region,Unbacked Mem (H=3.17),24708,mem_24708_1a4f7100000,3.1707,45056,PAGE_EXECUTE_READWRITE
+mem_24708_1a4f7113000,memory_region,Unbacked Mem (H=2.28),24708,mem_24708_1a4f7113000,2.2845,16384,PAGE_EXECUTE_READWRITE
+mem_24708_1a4f9300000,memory_region,Unbacked Mem (H=0.14),24708,mem_24708_1a4f9300000,0.1354,4096,PAGE_EXECUTE_READWRITE
+mem_24708_7ff43f2d0000,memory_region,Unbacked Mem (H=0.41),24708,mem_24708_7ff43f2d0000,0.4143,4096,PAGE_EXECUTE_READWRITE
+mem_24708_7ff43f2e0000,memory_region,Unbacked Mem (H=0.16),24708,mem_24708_7ff43f2e0000,0.1613,4096,PAGE_EXECUTE_READWRITE
+mem_24708_7ff43f2f0000,memory_region,Unbacked Mem (H=0.15),24708,mem_24708_7ff43f2f0000,0.1547,4096,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee57f3000,memory_region,Unbacked Mem (H=4.21),24708,mem_24708_7ffee57f3000,4.2087,4096,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee57fd000,memory_region,Unbacked Mem (H=4.80),24708,mem_24708_7ffee57fd000,4.7972,12288,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee580d000,memory_region,Unbacked Mem (H=4.71),24708,mem_24708_7ffee580d000,4.7095,12288,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee581b000,memory_region,Unbacked Mem (H=5.34),24708,mem_24708_7ffee581b000,5.3395,106496,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee584c000,memory_region,Unbacked Mem (H=5.32),24708,mem_24708_7ffee584c000,5.3172,208896,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee58ac000,memory_region,Unbacked Mem (H=2.37),24708,mem_24708_7ffee58ac000,2.3703,4096,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee58b0000,memory_region,Unbacked Mem (H=4.97),24708,mem_24708_7ffee58b0000,4.9672,8192,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee58d6000,memory_region,Unbacked Mem (H=4.91),24708,mem_24708_7ffee58d6000,4.9056,20480,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5910000,memory_region,Unbacked Mem (H=6.44),24708,mem_24708_7ffee5910000,6.4384,364544,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5af0000,memory_region,Unbacked Mem (H=5.71),24708,mem_24708_7ffee5af0000,5.7086,65536,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5b40000,memory_region,Unbacked Mem (H=4.42),24708,mem_24708_7ffee5b40000,4.4196,28672,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5bf0000,memory_region,Unbacked Mem (H=5.94),24708,mem_24708_7ffee5bf0000,5.9392,65536,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5c20000,memory_region,Unbacked Mem (H=6.32),24708,mem_24708_7ffee5c20000,6.3223,344064,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5d80000,memory_region,Unbacked Mem (H=4.69),24708,mem_24708_7ffee5d80000,4.6905,65536,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5d90000,memory_region,Unbacked Mem (H=0.31),24708,mem_24708_7ffee5d90000,0.3076,4096,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5dd0000,memory_region,Unbacked Mem (H=3.54),24708,mem_24708_7ffee5dd0000,3.5385,45056,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee5ee0000,memory_region,Unbacked Mem (H=6.45),24708,mem_24708_7ffee5ee0000,6.4457,425984,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee6070000,memory_region,Unbacked Mem (H=6.42),24708,mem_24708_7ffee6070000,6.4151,385024,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee6290000,memory_region,Unbacked Mem (H=6.42),24708,mem_24708_7ffee6290000,6.4212,393216,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee6490000,memory_region,Unbacked Mem (H=6.36),24708,mem_24708_7ffee6490000,6.3626,397312,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee6530000,memory_region,Unbacked Mem (H=5.88),24708,mem_24708_7ffee6530000,5.8785,61440,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee6650000,memory_region,Unbacked Mem (H=4.41),24708,mem_24708_7ffee6650000,4.4067,61440,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee6ae0000,memory_region,Unbacked Mem (H=6.43),24708,mem_24708_7ffee6ae0000,6.427,1044480,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee6e10000,memory_region,Unbacked Mem (H=1.77),24708,mem_24708_7ffee6e10000,1.767,12288,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee6f20000,memory_region,Unbacked Mem (H=1.85),24708,mem_24708_7ffee6f20000,1.8498,4096,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee7090000,memory_region,Unbacked Mem (H=5.99),24708,mem_24708_7ffee7090000,5.9871,65536,PAGE_EXECUTE_READWRITE
+mem_24708_7ffee7110000,memory_region,Unbacked Mem (H=6.01),24708,mem_24708_7ffee7110000,6.0124,65536,PAGE_EXECUTE_READWRITE
+mem_18256_1a0d6d6f000,memory_region,Unbacked Mem (H=1.37),18256,mem_18256_1a0d6d6f000,1.3697,4096,PAGE_EXECUTE_READ
+mem_18256_7ff547491000,memory_region,Unbacked Mem (H=1.09),18256,mem_18256_7ff547491000,1.094,4096,PAGE_EXECUTE_READ
+mem_18256_7fff57b30000,memory_region,Unbacked Mem (H=0.24),18256,mem_18256_7fff57b30000,0.239,4096,PAGE_EXECUTE_READ
+mem_15160_2d1fe4c7000,memory_region,Unbacked Mem (H=1.37),15160,mem_15160_2d1fe4c7000,1.3697,4096,PAGE_EXECUTE_READ
+mem_9796_1f75ffc0000,memory_region,Unbacked Mem (H=0.87),9796,mem_9796_1f75ffc0000,0.8694,4096,PAGE_EXECUTE_READ
+mem_9796_7ffeb6500000,memory_region,Unbacked Mem (H=0.09),9796,mem_9796_7ffeb6500000,0.0897,4096,PAGE_EXECUTE_READ
+mem_9796_7ffeb6540000,memory_region,Unbacked Mem (H=5.84),9796,mem_9796_7ffeb6540000,5.8438,36700160,PAGE_EXECUTE_READWRITE
+mem_9796_7fff57b30000,memory_region,Unbacked Mem (H=0.08),9796,mem_9796_7fff57b30000,0.0825,4096,PAGE_EXECUTE_READ
+mem_23332_26a9b219000,memory_region,Unbacked Mem (H=1.37),23332,mem_23332_26a9b219000,1.3697,4096,PAGE_EXECUTE_READ
+mem_13228_20dc8f10000,memory_region,Unbacked Mem (H=1.72),13228,mem_13228_20dc8f10000,1.7209,65536,PAGE_EXECUTE_READWRITE
+mem_13228_20dd1fd0000,memory_region,Unbacked Mem (H=5.23),13228,mem_13228_20dd1fd0000,5.2288,4096,PAGE_EXECUTE_READ
+mem_13228_20dea810000,memory_region,Unbacked Mem (H=5.25),13228,mem_13228_20dea810000,5.2485,4096,PAGE_EXECUTE_READ
+mem_13228_20dea820000,memory_region,Unbacked Mem (H=5.17),13228,mem_13228_20dea820000,5.1707,4096,PAGE_EXECUTE_READ
+mem_13228_20dea830000,memory_region,Unbacked Mem (H=5.19),13228,mem_13228_20dea830000,5.1864,4096,PAGE_EXECUTE_READ
+mem_13228_20dea840000,memory_region,Unbacked Mem (H=5.27),13228,mem_13228_20dea840000,5.2739,4096,PAGE_EXECUTE_READ
+mem_13228_20dea850000,memory_region,Unbacked Mem (H=5.35),13228,mem_13228_20dea850000,5.3531,4096,PAGE_EXECUTE_READ
+mem_13228_20dea860000,memory_region,Unbacked Mem (H=5.07),13228,mem_13228_20dea860000,5.0664,4096,PAGE_EXECUTE_READ
+mem_13228_20dea870000,memory_region,Unbacked Mem (H=5.10),13228,mem_13228_20dea870000,5.1025,4096,PAGE_EXECUTE_READ
+mem_13228_20dea880000,memory_region,Unbacked Mem (H=5.14),13228,mem_13228_20dea880000,5.1359,4096,PAGE_EXECUTE_READ
+mem_13228_20dea890000,memory_region,Unbacked Mem (H=5.16),13228,mem_13228_20dea890000,5.1583,4096,PAGE_EXECUTE_READ
+mem_13228_20dea8a0000,memory_region,Unbacked Mem (H=5.04),13228,mem_13228_20dea8a0000,5.0422,4096,PAGE_EXECUTE_READ
+mem_13228_20dea8b0000,memory_region,Unbacked Mem (H=5.09),13228,mem_13228_20dea8b0000,5.0871,4096,PAGE_EXECUTE_READ
+mem_13228_20dea8c0000,memory_region,Unbacked Mem (H=5.03),13228,mem_13228_20dea8c0000,5.0301,4096,PAGE_EXECUTE_READ
+mem_13228_20dea8d0000,memory_region,Unbacked Mem (H=5.00),13228,mem_13228_20dea8d0000,5.0032,4096,PAGE_EXECUTE_READ
+mem_13228_20dea8e0000,memory_region,Unbacked Mem (H=5.03),13228,mem_13228_20dea8e0000,5.033,4096,PAGE_EXECUTE_READ
+mem_13228_20dea8f0000,memory_region,Unbacked Mem (H=5.16),13228,mem_13228_20dea8f0000,5.1587,4096,PAGE_EXECUTE_READ
+mem_13228_20dea900000,memory_region,Unbacked Mem (H=5.27),13228,mem_13228_20dea900000,5.2692,4096,PAGE_EXECUTE_READ
+mem_13228_20dea910000,memory_region,Unbacked Mem (H=5.09),13228,mem_13228_20dea910000,5.0894,4096,PAGE_EXECUTE_READ
+mem_13228_20dea920000,memory_region,Unbacked Mem (H=5.21),13228,mem_13228_20dea920000,5.2127,4096,PAGE_EXECUTE_READ
+mem_13228_20dea930000,memory_region,Unbacked Mem (H=5.39),13228,mem_13228_20dea930000,5.387,8192,PAGE_EXECUTE_READ
+mem_13228_20dea940000,memory_region,Unbacked Mem (H=5.16),13228,mem_13228_20dea940000,5.157,4096,PAGE_EXECUTE_READ
+mem_13228_20dea950000,memory_region,Unbacked Mem (H=5.13),13228,mem_13228_20dea950000,5.1309,4096,PAGE_EXECUTE_READ
+mem_13228_20dea9d0000,memory_region,Unbacked Mem (H=5.33),13228,mem_13228_20dea9d0000,5.3266,4096,PAGE_EXECUTE_READ
+mem_13228_20deaa30000,memory_region,Unbacked Mem (H=5.30),13228,mem_13228_20deaa30000,5.2975,8192,PAGE_EXECUTE_READ
+mem_13228_20deaa40000,memory_region,Unbacked Mem (H=5.34),13228,mem_13228_20deaa40000,5.3369,8192,PAGE_EXECUTE_READ
+mem_13228_20deaa90000,memory_region,Unbacked Mem (H=5.25),13228,mem_13228_20deaa90000,5.2512,4096,PAGE_EXECUTE_READ
+mem_13228_20deaaa0000,memory_region,Unbacked Mem (H=5.23),13228,mem_13228_20deaaa0000,5.2321,4096,PAGE_EXECUTE_READ
+mem_13228_20deaab0000,memory_region,Unbacked Mem (H=5.10),13228,mem_13228_20deaab0000,5.0961,4096,PAGE_EXECUTE_READ
+mem_13228_20deaac0000,memory_region,Unbacked Mem (H=5.07),13228,mem_13228_20deaac0000,5.0675,4096,PAGE_EXECUTE_READ
+mem_13228_20deaad0000,memory_region,Unbacked Mem (H=4.92),13228,mem_13228_20deaad0000,4.9154,4096,PAGE_EXECUTE_READ
+mem_13228_20deaae0000,memory_region,Unbacked Mem (H=5.19),13228,mem_13228_20deaae0000,5.1865,4096,PAGE_EXECUTE_READ
+mem_13228_20deaaf0000,memory_region,Unbacked Mem (H=5.17),13228,mem_13228_20deaaf0000,5.1711,4096,PAGE_EXECUTE_READ
+mem_13228_20deab00000,memory_region,Unbacked Mem (H=5.12),13228,mem_13228_20deab00000,5.1183,4096,PAGE_EXECUTE_READ
+mem_13228_20deab20000,memory_region,Unbacked Mem (H=5.30),13228,mem_13228_20deab20000,5.2988,4096,PAGE_EXECUTE_READ
+mem_13228_20deab30000,memory_region,Unbacked Mem (H=5.21),13228,mem_13228_20deab30000,5.2109,4096,PAGE_EXECUTE_READ
+mem_13228_20deab40000,memory_region,Unbacked Mem (H=5.08),13228,mem_13228_20deab40000,5.0798,4096,PAGE_EXECUTE_READ
+mem_13228_20deab50000,memory_region,Unbacked Mem (H=5.01),13228,mem_13228_20deab50000,5.0072,4096,PAGE_EXECUTE_READ
+mem_13228_20deab60000,memory_region,Unbacked Mem (H=5.16),13228,mem_13228_20deab60000,5.1588,4096,PAGE_EXECUTE_READ
+mem_13228_20deab80000,memory_region,Unbacked Mem (H=5.36),13228,mem_13228_20deab80000,5.3645,4096,PAGE_EXECUTE_READ
+mem_13228_20deab90000,memory_region,Unbacked Mem (H=5.20),13228,mem_13228_20deab90000,5.2036,4096,PAGE_EXECUTE_READ
+mem_13228_20deaba0000,memory_region,Unbacked Mem (H=5.18),13228,mem_13228_20deaba0000,5.1823,4096,PAGE_EXECUTE_READ
+mem_13228_20deabb0000,memory_region,Unbacked Mem (H=5.04),13228,mem_13228_20deabb0000,5.0436,4096,PAGE_EXECUTE_READ
+mem_13228_20deabc0000,memory_region,Unbacked Mem (H=5.21),13228,mem_13228_20deabc0000,5.2103,4096,PAGE_EXECUTE_READ
+mem_13228_20deabd0000,memory_region,Unbacked Mem (H=5.13),13228,mem_13228_20deabd0000,5.1325,4096,PAGE_EXECUTE_READ
+mem_13228_20deabe0000,memory_region,Unbacked Mem (H=5.38),13228,mem_13228_20deabe0000,5.3798,8192,PAGE_EXECUTE_READ
+mem_13228_20deabf0000,memory_region,Unbacked Mem (H=5.17),13228,mem_13228_20deabf0000,5.1693,4096,PAGE_EXECUTE_READ
+mem_13228_20deac00000,memory_region,Unbacked Mem (H=5.11),13228,mem_13228_20deac00000,5.1079,4096,PAGE_EXECUTE_READ
+mem_13228_20deac10000,memory_region,Unbacked Mem (H=5.09),13228,mem_13228_20deac10000,5.0897,4096,PAGE_EXECUTE_READ
+mem_13228_20deac20000,memory_region,Unbacked Mem (H=5.29),13228,mem_13228_20deac20000,5.2936,8192,PAGE_EXECUTE_READ
+mem_13228_20deac30000,memory_region,Unbacked Mem (H=5.12),13228,mem_13228_20deac30000,5.1168,4096,PAGE_EXECUTE_READ
+mem_13228_20deac40000,memory_region,Unbacked Mem (H=5.12),13228,mem_13228_20deac40000,5.1217,4096,PAGE_EXECUTE_READ
+mem_13228_20deac50000,memory_region,Unbacked Mem (H=5.26),13228,mem_13228_20deac50000,5.2627,4096,PAGE_EXECUTE_READ
+mem_13228_20deac60000,memory_region,Unbacked Mem (H=5.13),13228,mem_13228_20deac60000,5.1279,4096,PAGE_EXECUTE_READ
+mem_13228_20dedf80000,memory_region,Unbacked Mem (H=5.29),13228,mem_13228_20dedf80000,5.2906,4096,PAGE_EXECUTE_READ
+mem_13228_20dedf90000,memory_region,Unbacked Mem (H=5.12),13228,mem_13228_20dedf90000,5.1157,4096,PAGE_EXECUTE_READ
+mem_13228_20dedfa0000,memory_region,Unbacked Mem (H=4.97),13228,mem_13228_20dedfa0000,4.9743,4096,PAGE_EXECUTE_READ
+mem_13228_20dedfb0000,memory_region,Unbacked Mem (H=5.08),13228,mem_13228_20dedfb0000,5.0839,4096,PAGE_EXECUTE_READ
+mem_13228_20dedfe0000,memory_region,Unbacked Mem (H=5.31),13228,mem_13228_20dedfe0000,5.3127,4096,PAGE_EXECUTE_READ
+mem_13228_20df89e0000,memory_region,Unbacked Mem (H=3.38),13228,mem_13228_20df89e0000,3.3797,4096,PAGE_EXECUTE_READ
+mem_7516_19f39420000,memory_region,Unbacked Mem (H=0.37),7516,mem_7516_19f39420000,0.3688,65536,PAGE_EXECUTE_READWRITE
+mem_7516_19f54c70000,memory_region,Unbacked Mem (H=3.39),7516,mem_7516_19f54c70000,3.3866,8192,PAGE_EXECUTE_READ
+mem_12032_188f8b00000,memory_region,Unbacked Mem (H=0.78),12032,mem_12032_188f8b00000,0.7841,4096,PAGE_EXECUTE_READWRITE
+mem_12032_188f8e00000,memory_region,Unbacked Mem (H=0.86),12032,mem_12032_188f8e00000,0.8642,4096,PAGE_EXECUTE_READWRITE
+mem_12032_188f8f00000,memory_region,Unbacked Mem (H=1.92),12032,mem_12032_188f8f00000,1.9221,28672,PAGE_EXECUTE_READWRITE
+mem_12032_7ff479b60000,memory_region,Unbacked Mem (H=0.41),12032,mem_12032_7ff479b60000,0.4143,4096,PAGE_EXECUTE_READWRITE
+mem_12032_7ff479b70000,memory_region,Unbacked Mem (H=0.16),12032,mem_12032_7ff479b70000,0.1613,4096,PAGE_EXECUTE_READWRITE
+mem_12032_7ff479b80000,memory_region,Unbacked Mem (H=0.15),12032,mem_12032_7ff479b80000,0.1547,4096,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee5823000,memory_region,Unbacked Mem (H=1.94),12032,mem_12032_7ffee5823000,1.9411,4096,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee582d000,memory_region,Unbacked Mem (H=4.83),12032,mem_12032_7ffee582d000,4.8337,12288,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee583d000,memory_region,Unbacked Mem (H=4.21),12032,mem_12032_7ffee583d000,4.2109,8192,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee584b000,memory_region,Unbacked Mem (H=4.04),12032,mem_12032_7ffee584b000,4.0367,16384,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee587c000,memory_region,Unbacked Mem (H=5.00),12032,mem_12032_7ffee587c000,4.9955,20480,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee58dc000,memory_region,Unbacked Mem (H=0.72),12032,mem_12032_7ffee58dc000,0.7151,4096,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee58e0000,memory_region,Unbacked Mem (H=3.15),12032,mem_12032_7ffee58e0000,3.1492,4096,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee5906000,memory_region,Unbacked Mem (H=3.91),12032,mem_12032_7ffee5906000,3.9123,8192,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee5940000,memory_region,Unbacked Mem (H=6.33),12032,mem_12032_7ffee5940000,6.3342,176128,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee5a80000,memory_region,Unbacked Mem (H=0.82),12032,mem_12032_7ffee5a80000,0.8195,4096,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee5a90000,memory_region,Unbacked Mem (H=0.31),12032,mem_12032_7ffee5a90000,0.3076,4096,PAGE_EXECUTE_READWRITE
+mem_12032_7ffee5ac0000,memory_region,Unbacked Mem (H=2.92),12032,mem_12032_7ffee5ac0000,2.9169,4096,PAGE_EXECUTE_READWRITE
+mem_5852_7ff5cadd1000,memory_region,Unbacked Mem (H=3.74),5852,mem_5852_7ff5cadd1000,3.7401,4096,PAGE_EXECUTE_READ
+mem_5852_7ff5cade1000,memory_region,Unbacked Mem (H=2.86),5852,mem_5852_7ff5cade1000,2.8641,4096,PAGE_EXECUTE_READ
+mem_5852_7ff5cadf1000,memory_region,Unbacked Mem (H=3.42),5852,mem_5852_7ff5cadf1000,3.4229,4096,PAGE_EXECUTE_READ
+mem_10184_183e8588000,memory_region,Unbacked Mem (H=0.45),10184,mem_10184_183e8588000,0.4491,4096,PAGE_EXECUTE_READ
+mem_5812_1ce3000,memory_region,Unbacked Mem (H=2.33),5812,mem_5812_1ce3000,2.3347,4096,PAGE_EXECUTE_READWRITE
+mem_5812_1ced000,memory_region,Unbacked Mem (H=3.78),5812,mem_5812_1ced000,3.7771,4096,PAGE_EXECUTE_READWRITE
+mem_5812_1cfd000,memory_region,Unbacked Mem (H=0.67),5812,mem_5812_1cfd000,0.6679,4096,PAGE_EXECUTE_READWRITE
+mem_5812_1d06000,memory_region,Unbacked Mem (H=1.46),5812,mem_5812_1d06000,1.4596,8192,PAGE_EXECUTE_READWRITE
+mem_5812_1d0a000,memory_region,Unbacked Mem (H=5.30),5812,mem_5812_1d0a000,5.3034,4096,PAGE_EXECUTE_READWRITE
+mem_5812_1d15000,memory_region,Unbacked Mem (H=0.22),5812,mem_5812_1d15000,0.2238,4096,PAGE_EXECUTE_READWRITE
+mem_5812_1d17000,memory_region,Unbacked Mem (H=1.16),5812,mem_5812_1d17000,1.1648,4096,PAGE_EXECUTE_READWRITE
+mem_5812_1d1b000,memory_region,Unbacked Mem (H=3.57),5812,mem_5812_1d1b000,3.5666,4096,PAGE_EXECUTE_READWRITE
+mem_5812_1e80000,memory_region,Unbacked Mem (H=6.68),5812,mem_5812_1e80000,6.6837,65536,PAGE_EXECUTE_READWRITE
+mem_5812_1ea0000,memory_region,Unbacked Mem (H=0.52),5812,mem_5812_1ea0000,0.5219,4096,PAGE_EXECUTE_READWRITE
+mem_5812_68c0000,memory_region,Unbacked Mem (H=2.42),5812,mem_5812_68c0000,2.4217,12288,PAGE_EXECUTE_READWRITE
+mem_5812_6a10000,memory_region,Unbacked Mem (H=6.69),5812,mem_5812_6a10000,6.6888,65536,PAGE_EXECUTE_READWRITE
+mem_5812_6b10000,memory_region,Unbacked Mem (H=6.58),5812,mem_5812_6b10000,6.5795,65536,PAGE_EXECUTE_READWRITE
+mem_9804_7fff18470000,memory_region,Unbacked Mem (H=1.15),9804,mem_9804_7fff18470000,1.1549,65536,PAGE_EXECUTE_READ
+mem_9332_22b34c79000,memory_region,Unbacked Mem (H=0.55),9332,mem_9332_22b34c79000,0.5535,4096,PAGE_EXECUTE_READ
+mem_9332_7ff5d4a41000,memory_region,Unbacked Mem (H=1.09),9332,mem_9332_7ff5d4a41000,1.094,4096,PAGE_EXECUTE_READ
+mem_9332_7fff57b30000,memory_region,Unbacked Mem (H=0.24),9332,mem_9332_7fff57b30000,0.2376,4096,PAGE_EXECUTE_READ
+mem_12248_13ad4e8e000,memory_region,Unbacked Mem (H=0.55),12248,mem_12248_13ad4e8e000,0.5535,4096,PAGE_EXECUTE_READ
+mem_20500_251186da000,memory_region,Unbacked Mem (H=0.60),20500,mem_20500_251186da000,0.6039,4096,PAGE_EXECUTE_READ
+mem_20500_755451560000,memory_region,Unbacked Mem (H=0.09),20500,mem_20500_755451560000,0.0899,4096,PAGE_EXECUTE_READ
+mem_20500_755451561000,memory_region,Unbacked Mem (H=6.17),20500,mem_20500_755451561000,6.175,520192,PAGE_EXECUTE_READWRITE
+mem_20500_7ffe70ec0000,memory_region,Unbacked Mem (H=0.09),20500,mem_20500_7ffe70ec0000,0.0899,4096,PAGE_EXECUTE_READ
+mem_20500_7ffe70f00000,memory_region,Unbacked Mem (H=3.06),20500,mem_20500_7ffe70f00000,3.061,1572864,PAGE_EXECUTE_READWRITE
+mem_16392_23cf5be4000,memory_region,Unbacked Mem (H=0.45),16392,mem_16392_23cf5be4000,0.4491,4096,PAGE_EXECUTE_READ
+mem_26476_18d724e3000,memory_region,Unbacked Mem (H=0.60),26476,mem_26476_18d724e3000,0.6039,4096,PAGE_EXECUTE_READ
+mem_26476_7ffe70ec0000,memory_region,Unbacked Mem (H=0.09),26476,mem_26476_7ffe70ec0000,0.0902,4096,PAGE_EXECUTE_READ
+mem_26476_7ffe70f00000,memory_region,Unbacked Mem (H=2.85),26476,mem_26476_7ffe70f00000,2.8465,1572864,PAGE_EXECUTE_READWRITE
+mem_29028_1ada2420000,memory_region,Unbacked Mem (H=0.60),29028,mem_29028_1ada2420000,0.6039,4096,PAGE_EXECUTE_READ
+mem_29028_7ffee0000000,memory_region,Unbacked Mem (H=0.09),29028,mem_29028_7ffee0000000,0.0886,4096,PAGE_EXECUTE_READ
+mem_29028_7ffee0040000,memory_region,Unbacked Mem (H=1.42),29028,mem_29028_7ffee0040000,1.4215,786432,PAGE_EXECUTE_READWRITE
+mem_28996_1a3a2b39000,memory_region,Unbacked Mem (H=0.60),28996,mem_28996_1a3a2b39000,0.6039,4096,PAGE_EXECUTE_READ
+mem_28996_7ffee0000000,memory_region,Unbacked Mem (H=0.09),28996,mem_28996_7ffee0000000,0.089,4096,PAGE_EXECUTE_READ
+mem_28996_7ffee0040000,memory_region,Unbacked Mem (H=2.12),28996,mem_28996_7ffee0040000,2.1236,1572864,PAGE_EXECUTE_READWRITE
+mem_10044_21d76e40000,memory_region,Unbacked Mem (H=0.09),10044,mem_10044_21d76e40000,0.0887,4096,PAGE_EXECUTE_READ
+mem_10044_21d76e41000,memory_region,Unbacked Mem (H=4.30),10044,mem_10044_21d76e41000,4.2952,4096,PAGE_EXECUTE_READWRITE
+mem_10044_2b9a6570000,memory_region,Unbacked Mem (H=0.60),10044,mem_10044_2b9a6570000,0.6039,4096,PAGE_EXECUTE_READ
+mem_10044_7ffee0000000,memory_region,Unbacked Mem (H=0.09),10044,mem_10044_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_10044_7ffee0040000,memory_region,Unbacked Mem (H=5.84),10044,mem_10044_7ffee0040000,5.8401,14680064,PAGE_EXECUTE_READWRITE
+mem_29424_1727b430000,memory_region,Unbacked Mem (H=0.60),29424,mem_29424_1727b430000,0.6039,4096,PAGE_EXECUTE_READ
+mem_29424_48e3af710000,memory_region,Unbacked Mem (H=0.09),29424,mem_29424_48e3af710000,0.0892,4096,PAGE_EXECUTE_READ
+mem_29424_48e3af711000,memory_region,Unbacked Mem (H=5.98),29424,mem_29424_48e3af711000,5.9805,991232,PAGE_EXECUTE_READWRITE
+mem_29424_48e3afa60000,memory_region,Unbacked Mem (H=0.09),29424,mem_29424_48e3afa60000,0.0889,4096,PAGE_EXECUTE_READ
+mem_29424_48e3afa61000,memory_region,Unbacked Mem (H=4.21),29424,mem_29424_48e3afa61000,4.2121,8192,PAGE_EXECUTE_READWRITE
+mem_29424_7ffee0000000,memory_region,Unbacked Mem (H=0.09),29424,mem_29424_7ffee0000000,0.089,4096,PAGE_EXECUTE_READ
+mem_29424_7ffee0040000,memory_region,Unbacked Mem (H=5.95),29424,mem_29424_7ffee0040000,5.9473,4194304,PAGE_EXECUTE_READWRITE
+mem_28764_2962bbb9000,memory_region,Unbacked Mem (H=0.60),28764,mem_28764_2962bbb9000,0.6039,4096,PAGE_EXECUTE_READ
+mem_28764_7ffe70ec0000,memory_region,Unbacked Mem (H=0.09),28764,mem_28764_7ffe70ec0000,0.0899,4096,PAGE_EXECUTE_READ
+mem_28764_7ffe70f00000,memory_region,Unbacked Mem (H=5.97),28764,mem_28764_7ffe70f00000,5.9681,1310720,PAGE_EXECUTE_READWRITE
+mem_11756_2e64e478000,memory_region,Unbacked Mem (H=0.60),11756,mem_11756_2e64e478000,0.6039,4096,PAGE_EXECUTE_READ
+mem_11756_6854b0a90000,memory_region,Unbacked Mem (H=0.09),11756,mem_11756_6854b0a90000,0.0892,4096,PAGE_EXECUTE_READ
+mem_11756_6854b0a91000,memory_region,Unbacked Mem (H=4.51),11756,mem_11756_6854b0a91000,4.5082,4096,PAGE_EXECUTE_READWRITE
+mem_11756_7ffe70ec0000,memory_region,Unbacked Mem (H=0.09),11756,mem_11756_7ffe70ec0000,0.0904,4096,PAGE_EXECUTE_READ
+mem_11756_7ffe70f00000,memory_region,Unbacked Mem (H=5.46),11756,mem_11756_7ffe70f00000,5.4623,14417920,PAGE_EXECUTE_READWRITE
+mem_9532_7ff6b8d00000,memory_region,Unbacked Mem (H=0.09),9532,mem_9532_7ff6b8d00000,0.0904,4096,PAGE_EXECUTE_READ
+mem_9532_7ff6b8d40000,memory_region,Unbacked Mem (H=4.66),9532,mem_9532_7ff6b8d40000,4.6591,1572864,PAGE_EXECUTE_READWRITE
+mem_29268_26e40615000,memory_region,Unbacked Mem (H=0.55),29268,mem_29268_26e40615000,0.5535,4096,PAGE_EXECUTE_READ
+mem_29068_209cc121000,memory_region,Unbacked Mem (H=0.55),29068,mem_29068_209cc121000,0.5535,4096,PAGE_EXECUTE_READ
+mem_29068_7ff6b8d00000,memory_region,Unbacked Mem (H=0.09),29068,mem_29068_7ff6b8d00000,0.0892,4096,PAGE_EXECUTE_READ
+mem_29068_7ff6b8d40000,memory_region,Unbacked Mem (H=5.76),29068,mem_29068_7ff6b8d40000,5.7551,16252928,PAGE_EXECUTE_READWRITE
+mem_29068_7fff565e0000,memory_region,Unbacked Mem (H=0.08),29068,mem_29068_7fff565e0000,0.0825,4096,PAGE_EXECUTE_READ
+mem_29068_7fff57880000,memory_region,Unbacked Mem (H=0.14),29068,mem_29068_7fff57880000,0.135,4096,PAGE_EXECUTE_READ
+mem_18560_29f4df93000,memory_region,Unbacked Mem (H=0.45),18560,mem_18560_29f4df93000,0.4491,4096,PAGE_EXECUTE_READ
+mem_1488_166ae6a1000,memory_region,Unbacked Mem (H=0.60),1488,mem_1488_166ae6a1000,0.6039,4096,PAGE_EXECUTE_READ
+mem_1488_7ffee0000000,memory_region,Unbacked Mem (H=0.09),1488,mem_1488_7ffee0000000,0.089,4096,PAGE_EXECUTE_READ
+mem_1488_7ffee0040000,memory_region,Unbacked Mem (H=4.84),1488,mem_1488_7ffee0040000,4.8444,7340032,PAGE_EXECUTE_READWRITE
+mem_7828_216d9c85000,memory_region,Unbacked Mem (H=0.60),7828,mem_7828_216d9c85000,0.6039,4096,PAGE_EXECUTE_READ
+mem_7828_7ffe70ec0000,memory_region,Unbacked Mem (H=0.09),7828,mem_7828_7ffe70ec0000,0.0904,4096,PAGE_EXECUTE_READ
+mem_7828_7ffe70f00000,memory_region,Unbacked Mem (H=5.59),7828,mem_7828_7ffe70f00000,5.5864,1835008,PAGE_EXECUTE_READWRITE
+mem_27052_1e40749e000,memory_region,Unbacked Mem (H=0.45),27052,mem_27052_1e40749e000,0.4491,4096,PAGE_EXECUTE_READ
+mem_27680_2234094c000,memory_region,Unbacked Mem (H=0.60),27680,mem_27680_2234094c000,0.6039,4096,PAGE_EXECUTE_READ
+mem_27680_7ffee0000000,memory_region,Unbacked Mem (H=0.09),27680,mem_27680_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_27680_7ffee0040000,memory_region,Unbacked Mem (H=1.69),27680,mem_27680_7ffee0040000,1.6922,262144,PAGE_EXECUTE_READWRITE
+mem_12048_2347b559000,memory_region,Unbacked Mem (H=0.60),12048,mem_12048_2347b559000,0.6039,4096,PAGE_EXECUTE_READ
+mem_12048_7ffee0000000,memory_region,Unbacked Mem (H=0.09),12048,mem_12048_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_12048_7ffee0040000,memory_region,Unbacked Mem (H=5.91),12048,mem_12048_7ffee0040000,5.9137,2097152,PAGE_EXECUTE_READWRITE
+mem_26068_1fc6e62d000,memory_region,Unbacked Mem (H=1.37),26068,mem_26068_1fc6e62d000,1.3697,4096,PAGE_EXECUTE_READ
+mem_26068_7fff57b30000,memory_region,Unbacked Mem (H=0.24),26068,mem_26068_7fff57b30000,0.2373,4096,PAGE_EXECUTE_READ
+mem_15136_1d20ce22000,memory_region,Unbacked Mem (H=1.37),15136,mem_15136_1d20ce22000,1.3697,4096,PAGE_EXECUTE_READ
+mem_5432_22975676000,memory_region,Unbacked Mem (H=0.87),5432,mem_5432_22975676000,0.8694,4096,PAGE_EXECUTE_READ
+mem_5432_97094470000,memory_region,Unbacked Mem (H=0.09),5432,mem_5432_97094470000,0.0897,4096,PAGE_EXECUTE_READ
+mem_5432_97094471000,memory_region,Unbacked Mem (H=4.36),5432,mem_5432_97094471000,4.3612,4096,PAGE_EXECUTE_READWRITE
+mem_5432_97094480000,memory_region,Unbacked Mem (H=0.09),5432,mem_5432_97094480000,0.0904,4096,PAGE_EXECUTE_READ
+mem_5432_97094481000,memory_region,Unbacked Mem (H=6.14),5432,mem_5432_97094481000,6.1352,3956736,PAGE_EXECUTE_READWRITE
+mem_5432_7ffeb6500000,memory_region,Unbacked Mem (H=0.09),5432,mem_5432_7ffeb6500000,0.0899,4096,PAGE_EXECUTE_READ
+mem_5432_7ffeb6540000,memory_region,Unbacked Mem (H=4.27),5432,mem_5432_7ffeb6540000,4.2742,8126464,PAGE_EXECUTE_READWRITE
+mem_5432_7fff57b30000,memory_region,Unbacked Mem (H=0.08),5432,mem_5432_7fff57b30000,0.0825,4096,PAGE_EXECUTE_READ
+mem_26588_1f9966d6000,memory_region,Unbacked Mem (H=0.60),26588,mem_26588_1f9966d6000,0.6039,4096,PAGE_EXECUTE_READ
+mem_26588_7ffee0000000,memory_region,Unbacked Mem (H=0.09),26588,mem_26588_7ffee0000000,0.089,4096,PAGE_EXECUTE_READ
+mem_13552_2446ef8e000,memory_region,Unbacked Mem (H=0.60),13552,mem_13552_2446ef8e000,0.6039,4096,PAGE_EXECUTE_READ
+mem_13552_7ffee0000000,memory_region,Unbacked Mem (H=0.09),13552,mem_13552_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_13552_7ffee0040000,memory_region,Unbacked Mem (H=3.39),13552,mem_13552_7ffee0040000,3.3884,1048576,PAGE_EXECUTE_READWRITE
+mem_8440_27e676a1000,memory_region,Unbacked Mem (H=0.60),8440,mem_8440_27e676a1000,0.6039,4096,PAGE_EXECUTE_READ
+mem_16292_232b14c2000,memory_region,Unbacked Mem (H=0.60),16292,mem_16292_232b14c2000,0.6039,4096,PAGE_EXECUTE_READ
+mem_16292_7ffee0000000,memory_region,Unbacked Mem (H=0.09),16292,mem_16292_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_7000_171874a7000,memory_region,Unbacked Mem (H=0.60),7000,mem_7000_171874a7000,0.6039,4096,PAGE_EXECUTE_READ
+mem_24392_26dbfeb4000,memory_region,Unbacked Mem (H=0.60),24392,mem_24392_26dbfeb4000,0.6039,4096,PAGE_EXECUTE_READ
+mem_24392_7ffee0000000,memory_region,Unbacked Mem (H=0.09),24392,mem_24392_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_24392_7ffee0040000,memory_region,Unbacked Mem (H=5.64),24392,mem_24392_7ffee0040000,5.6415,2097152,PAGE_EXECUTE_READWRITE
+mem_27468_256eb710000,memory_region,Unbacked Mem (H=4.49),27468,mem_27468_256eb710000,4.4946,32768,PAGE_EXECUTE_READ
+mem_2444_22ab42a3000,memory_region,Unbacked Mem (H=0.60),2444,mem_2444_22ab42a3000,0.6039,4096,PAGE_EXECUTE_READ
+mem_2444_5f59b64b0000,memory_region,Unbacked Mem (H=0.09),2444,mem_2444_5f59b64b0000,0.0899,4096,PAGE_EXECUTE_READ
+mem_2444_5f59b64b1000,memory_region,Unbacked Mem (H=6.20),2444,mem_2444_5f59b64b1000,6.2001,364544,PAGE_EXECUTE_READWRITE
+mem_2444_7ffee0000000,memory_region,Unbacked Mem (H=0.09),2444,mem_2444_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_2444_7ffee0040000,memory_region,Unbacked Mem (H=5.81),2444,mem_2444_7ffee0040000,5.8057,18087936,PAGE_EXECUTE_READWRITE
+mem_25172_2744a63e000,memory_region,Unbacked Mem (H=0.60),25172,mem_25172_2744a63e000,0.6039,4096,PAGE_EXECUTE_READ
+mem_25172_7ffee0000000,memory_region,Unbacked Mem (H=0.09),25172,mem_25172_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_25172_7ffee0040000,memory_region,Unbacked Mem (H=4.78),25172,mem_25172_7ffee0040000,4.7754,6029312,PAGE_EXECUTE_READWRITE
+mem_10320_17670d8c000,memory_region,Unbacked Mem (H=0.60),10320,mem_10320_17670d8c000,0.6039,4096,PAGE_EXECUTE_READ
+mem_10320_7ffee0000000,memory_region,Unbacked Mem (H=0.09),10320,mem_10320_7ffee0000000,0.089,4096,PAGE_EXECUTE_READ
+mem_27272_22574349000,memory_region,Unbacked Mem (H=0.60),27272,mem_27272_22574349000,0.6039,4096,PAGE_EXECUTE_READ
+mem_27272_7ffee0000000,memory_region,Unbacked Mem (H=0.09),27272,mem_27272_7ffee0000000,0.0892,4096,PAGE_EXECUTE_READ
+mem_27272_7ffee0040000,memory_region,Unbacked Mem (H=0.24),27272,mem_27272_7ffee0040000,0.2446,262144,PAGE_EXECUTE_READWRITE
+mem_27244_16e9152a000,memory_region,Unbacked Mem (H=0.60),27244,mem_27244_16e9152a000,0.6039,4096,PAGE_EXECUTE_READ
+mem_27244_7ffee0000000,memory_region,Unbacked Mem (H=0.09),27244,mem_27244_7ffee0000000,0.089,4096,PAGE_EXECUTE_READ
+mem_27244_7ffee0040000,memory_region,Unbacked Mem (H=0.24),27244,mem_27244_7ffee0040000,0.2353,262144,PAGE_EXECUTE_READWRITE
+mem_27384_1d9f7d70000,memory_region,Unbacked Mem (H=2.46),27384,mem_27384_1d9f7d70000,2.4611,32768,PAGE_EXECUTE_READWRITE
+mem_27384_1d9f7d80000,memory_region,Unbacked Mem (H=0.38),27384,mem_27384_1d9f7d80000,0.3776,8192,PAGE_EXECUTE_READWRITE
+mem_27384_1d9f85f0000,memory_region,Unbacked Mem (H=0.63),27384,mem_27384_1d9f85f0000,0.632,8192,PAGE_EXECUTE_READWRITE
+mem_27384_7ff5872d0000,memory_region,Unbacked Mem (H=0.41),27384,mem_27384_7ff5872d0000,0.4143,4096,PAGE_EXECUTE_READWRITE
+mem_27384_7ff5872e0000,memory_region,Unbacked Mem (H=0.16),27384,mem_27384_7ff5872e0000,0.1613,4096,PAGE_EXECUTE_READWRITE
+mem_27384_7ff5872f0000,memory_region,Unbacked Mem (H=0.15),27384,mem_27384_7ff5872f0000,0.1547,4096,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee57e3000,memory_region,Unbacked Mem (H=0.55),27384,mem_27384_7ffee57e3000,0.5509,4096,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee57ed000,memory_region,Unbacked Mem (H=4.79),27384,mem_27384_7ffee57ed000,4.7927,12288,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee589c000,memory_region,Unbacked Mem (H=2.42),27384,mem_27384_7ffee589c000,2.4247,8192,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee58a0000,memory_region,Unbacked Mem (H=5.18),27384,mem_27384_7ffee58a0000,5.1825,20480,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee58c6000,memory_region,Unbacked Mem (H=5.04),27384,mem_27384_7ffee58c6000,5.0386,40960,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee5900000,memory_region,Unbacked Mem (H=4.99),27384,mem_27384_7ffee5900000,4.9949,16384,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee59a0000,memory_region,Unbacked Mem (H=0.31),27384,mem_27384_7ffee59a0000,0.3076,4096,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee59b0000,memory_region,Unbacked Mem (H=4.25),27384,mem_27384_7ffee59b0000,4.2494,12288,PAGE_EXECUTE_READWRITE
+mem_27384_7ffee59d0000,memory_region,Unbacked Mem (H=1.40),27384,mem_27384_7ffee59d0000,1.3984,4096,PAGE_EXECUTE_READWRITE
+sock_tcp4_928_0.0.0.0_135_0.0.0.0_0,socket,TCP :135 [LISTENING],928,TCP,135,0,0.0.0.0:135 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_4_0.0.0.0_445_0.0.0.0_0,socket,TCP :445 [LISTENING],4,TCP,445,0,0.0.0.0:445 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_11940_0.0.0.0_5040_0.0.0.0_0,socket,TCP :5040 [LISTENING],11940,TCP,5040,0,0.0.0.0:5040 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_4_0.0.0.0_5357_0.0.0.0_0,socket,TCP :5357 [LISTENING],4,TCP,5357,0,0.0.0.0:5357 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_1864_0.0.0.0_49664_0.0.0.0_0,socket,TCP :49664 [LISTENING],1864,TCP,49664,0,0.0.0.0:49664 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_1696_0.0.0.0_49665_0.0.0.0_0,socket,TCP :49665 [LISTENING],1696,TCP,49665,0,0.0.0.0:49665 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_2640_0.0.0.0_49666_0.0.0.0_0,socket,TCP :49666 [LISTENING],2640,TCP,49666,0,0.0.0.0:49666 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_3824_0.0.0.0_49667_0.0.0.0_0,socket,TCP :49667 [LISTENING],3824,TCP,49667,0,0.0.0.0:49667 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_6372_0.0.0.0_49668_0.0.0.0_0,socket,TCP :49668 [LISTENING],6372,TCP,49668,0,0.0.0.0:49668 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_1816_0.0.0.0_49669_0.0.0.0_0,socket,TCP :49669 [LISTENING],1816,TCP,49669,0,0.0.0.0:49669 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_20392_0.0.0.0_63069_0.0.0.0_0,socket,TCP :63069 [LISTENING],20392,TCP,63069,0,0.0.0.0:63069 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_6676_127.0.0.1_5354_0.0.0.0_0,socket,TCP :5354 [LISTENING],6676,TCP,5354,0,127.0.0.1:5354 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_24996_127.0.0.1_11434_0.0.0.0_0,socket,TCP :11434 [LISTENING],24996,TCP,11434,0,127.0.0.1:11434 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_20392_127.0.0.1_40988_127.0.0.1_52869,socket,TCP :40988 [ESTABLISHED],20392,TCP,40988,52869,127.0.0.1:40988 -> 127.0.0.1:52869 (ESTABLISHED)
+sock_tcp4_15552_127.0.0.1_52865_0.0.0.0_0,socket,TCP :52865 [LISTENING],15552,TCP,52865,0,127.0.0.1:52865 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_15552_127.0.0.1_52869_127.0.0.1_40988,socket,TCP :52869 [ESTABLISHED],15552,TCP,52869,40988,127.0.0.1:52869 -> 127.0.0.1:40988 (ESTABLISHED)
+sock_tcp4_5836_127.0.0.1_55191_127.0.0.1_63225,socket,TCP :55191 [ESTABLISHED],5836,TCP,55191,63225,127.0.0.1:55191 -> 127.0.0.1:63225 (ESTABLISHED)
+sock_tcp4_5836_127.0.0.1_56668_127.0.0.1_63225,socket,TCP :56668 [ESTABLISHED],5836,TCP,56668,63225,127.0.0.1:56668 -> 127.0.0.1:63225 (ESTABLISHED)
+sock_tcp4_25096_127.0.0.1_60994_0.0.0.0_0,socket,TCP :60994 [LISTENING],25096,TCP,60994,0,127.0.0.1:60994 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_5836_127.0.0.1_61558_127.0.0.1_63225,socket,TCP :61558 [ESTABLISHED],5836,TCP,61558,63225,127.0.0.1:61558 -> 127.0.0.1:63225 (ESTABLISHED)
+sock_tcp4_9532_127.0.0.1_63223_0.0.0.0_0,socket,TCP :63223 [LISTENING],9532,TCP,63223,0,127.0.0.1:63223 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_9532_127.0.0.1_63224_0.0.0.0_0,socket,TCP :63224 [LISTENING],9532,TCP,63224,0,127.0.0.1:63224 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_14956_127.0.0.1_63225_0.0.0.0_0,socket,TCP :63225 [LISTENING],14956,TCP,63225,0,127.0.0.1:63225 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_14956_127.0.0.1_63225_127.0.0.1_55191,socket,TCP :63225 [ESTABLISHED],14956,TCP,63225,55191,127.0.0.1:63225 -> 127.0.0.1:55191 (ESTABLISHED)
+sock_tcp4_14956_127.0.0.1_63225_127.0.0.1_56668,socket,TCP :63225 [ESTABLISHED],14956,TCP,63225,56668,127.0.0.1:63225 -> 127.0.0.1:56668 (ESTABLISHED)
+sock_tcp4_14956_127.0.0.1_63225_127.0.0.1_61558,socket,TCP :63225 [ESTABLISHED],14956,TCP,63225,61558,127.0.0.1:63225 -> 127.0.0.1:61558 (ESTABLISHED)
+sock_tcp4_14956_127.0.0.1_63226_0.0.0.0_0,socket,TCP :63226 [LISTENING],14956,TCP,63226,0,127.0.0.1:63226 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_15552_127.0.0.1_65530_0.0.0.0_0,socket,TCP :65530 [LISTENING],15552,TCP,65530,0,127.0.0.1:65530 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_4_172.20.160.214_139_0.0.0.0_0,socket,TCP :139 [LISTENING],4,TCP,139,0,172.20.160.214:139 -> 0.0.0.0:0 (LISTENING)
+sock_tcp4_16712_172.20.160.214_49670_40.90.64.140_443,socket,TCP :49670 [ESTABLISHED],16712,TCP,49670,443,172.20.160.214:49670 -> 40.90.64.140:443 (ESTABLISHED)
+sock_tcp4_23956_172.20.160.214_49707_52.123.170.75_443,socket,TCP :49707 [ESTABLISHED],23956,TCP,49707,443,172.20.160.214:49707 -> 52.123.170.75:443 (ESTABLISHED)
+sock_tcp4_16712_172.20.160.214_50060_13.107.254.254_443,socket,TCP :50060 [ESTABLISHED],16712,TCP,50060,443,172.20.160.214:50060 -> 13.107.254.254:443 (ESTABLISHED)
+sock_tcp4_14956_172.20.160.214_50061_34.54.84.110_443,socket,TCP :50061 [ESTABLISHED],14956,TCP,50061,443,172.20.160.214:50061 -> 34.54.84.110:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_52155_34.233.30.196_443,socket,TCP :52155 [TIME_WAIT],0,TCP,52155,443,172.20.160.214:52155 -> 34.233.30.196:443 (TIME_WAIT)
+sock_tcp4_27160_172.20.160.214_52156_4.150.223.112_443,socket,TCP :52156 [ESTABLISHED],27160,TCP,52156,443,172.20.160.214:52156 -> 4.150.223.112:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_52158_3.208.133.16_443,socket,TCP :52158 [TIME_WAIT],0,TCP,52158,443,172.20.160.214:52158 -> 3.208.133.16:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_52159_49.44.131.128_80,socket,TCP :52159 [TIME_WAIT],0,TCP,52159,80,172.20.160.214:52159 -> 49.44.131.128:80 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_53173_104.18.36.252_443,socket,TCP :53173 [TIME_WAIT],0,TCP,53173,443,172.20.160.214:53173 -> 104.18.36.252:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_53174_104.46.162.230_443,socket,TCP :53174 [TIME_WAIT],0,TCP,53174,443,172.20.160.214:53174 -> 104.46.162.230:443 (TIME_WAIT)
+sock_tcp4_23852_172.20.160.214_53337_52.123.173.243_443,socket,TCP :53337 [ESTABLISHED],23852,TCP,53337,443,172.20.160.214:53337 -> 52.123.173.243:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_53447_3.83.194.201_443,socket,TCP :53447 [TIME_WAIT],0,TCP,53447,443,172.20.160.214:53447 -> 3.83.194.201:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_53448_40.84.85.40_443,socket,TCP :53448 [TIME_WAIT],0,TCP,53448,443,172.20.160.214:53448 -> 40.84.85.40:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_53449_49.44.116.238_443,socket,TCP :53449 [TIME_WAIT],0,TCP,53449,443,172.20.160.214:53449 -> 49.44.116.238:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_53450_40.84.85.40_443,socket,TCP :53450 [TIME_WAIT],0,TCP,53450,443,172.20.160.214:53450 -> 40.84.85.40:443 (TIME_WAIT)
+sock_tcp4_5144_172.20.160.214_53452_3.211.196.89_443,socket,TCP :53452 [ESTABLISHED],5144,TCP,53452,443,172.20.160.214:53452 -> 3.211.196.89:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_53453_40.84.85.40_443,socket,TCP :53453 [TIME_WAIT],0,TCP,53453,443,172.20.160.214:53453 -> 40.84.85.40:443 (TIME_WAIT)
+sock_tcp4_6760_172.20.160.214_53837_4.213.25.240_443,socket,TCP :53837 [ESTABLISHED],6760,TCP,53837,443,172.20.160.214:53837 -> 4.213.25.240:443 (ESTABLISHED)
+sock_tcp4_16712_172.20.160.214_54480_13.107.3.254_443,socket,TCP :54480 [ESTABLISHED],16712,TCP,54480,443,172.20.160.214:54480 -> 13.107.3.254:443 (ESTABLISHED)
+sock_tcp4_18884_172.20.160.214_54603_57.144.57.32_443,socket,TCP :54603 [ESTABLISHED],18884,TCP,54603,443,172.20.160.214:54603 -> 57.144.57.32:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_54823_3.83.194.201_443,socket,TCP :54823 [TIME_WAIT],0,TCP,54823,443,172.20.160.214:54823 -> 3.83.194.201:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_55427_34.236.129.130_443,socket,TCP :55427 [TIME_WAIT],0,TCP,55427,443,172.20.160.214:55427 -> 34.236.129.130:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_56215_104.20.41.79_443,socket,TCP :56215 [TIME_WAIT],0,TCP,56215,443,172.20.160.214:56215 -> 104.20.41.79:443 (TIME_WAIT)
+sock_tcp4_14956_172.20.160.214_56669_172.217.118.4_443,socket,TCP :56669 [ESTABLISHED],14956,TCP,56669,443,172.20.160.214:56669 -> 172.217.118.4:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_57055_35.186.224.22_443,socket,TCP :57055 [TIME_WAIT],0,TCP,57055,443,172.20.160.214:57055 -> 35.186.224.22:443 (TIME_WAIT)
+sock_tcp4_29300_172.20.160.214_57261_35.186.224.35_443,socket,TCP :57261 [ESTABLISHED],29300,TCP,57261,443,172.20.160.214:57261 -> 35.186.224.35:443 (ESTABLISHED)
+sock_tcp4_23852_172.20.160.214_57431_20.52.64.207_443,socket,TCP :57431 [ESTABLISHED],23852,TCP,57431,443,172.20.160.214:57431 -> 20.52.64.207:443 (ESTABLISHED)
+sock_tcp4_15552_172.20.160.214_57776_54.152.52.132_443,socket,TCP :57776 [ESTABLISHED],15552,TCP,57776,443,172.20.160.214:57776 -> 54.152.52.132:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_57831_185.199.109.215_443,socket,TCP :57831 [TIME_WAIT],0,TCP,57831,443,172.20.160.214:57831 -> 185.199.109.215:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_58039_104.93.25.224_443,socket,TCP :58039 [TIME_WAIT],0,TCP,58039,443,172.20.160.214:58039 -> 104.93.25.224:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_58534_3.208.133.16_443,socket,TCP :58534 [TIME_WAIT],0,TCP,58534,443,172.20.160.214:58534 -> 3.208.133.16:443 (TIME_WAIT)
+sock_tcp4_19752_172.20.160.214_58648_172.66.154.160_443,socket,TCP :58648 [ESTABLISHED],19752,TCP,58648,443,172.20.160.214:58648 -> 172.66.154.160:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_59638_35.212.67.155_443,socket,TCP :59638 [TIME_WAIT],0,TCP,59638,443,172.20.160.214:59638 -> 35.212.67.155:443 (TIME_WAIT)
+sock_tcp4_5144_172.20.160.214_60079_32.199.135.194_443,socket,TCP :60079 [ESTABLISHED],5144,TCP,60079,443,172.20.160.214:60079 -> 32.199.135.194:443 (ESTABLISHED)
+sock_tcp4_19752_172.20.160.214_60150_142.250.4.188_5228,socket,TCP :60150 [ESTABLISHED],19752,TCP,60150,5228,172.20.160.214:60150 -> 142.250.4.188:5228 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_60237_103.180.115.15_443,socket,TCP :60237 [TIME_WAIT],0,TCP,60237,443,172.20.160.214:60237 -> 103.180.115.15:443 (TIME_WAIT)
+sock_tcp4_14956_172.20.160.214_60238_172.217.118.4_443,socket,TCP :60238 [ESTABLISHED],14956,TCP,60238,443,172.20.160.214:60238 -> 172.217.118.4:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_61876_34.143.75.2_443,socket,TCP :61876 [TIME_WAIT],0,TCP,61876,443,172.20.160.214:61876 -> 34.143.75.2:443 (TIME_WAIT)
+sock_tcp4_14956_172.20.160.214_61877_172.217.116.4_443,socket,TCP :61877 [ESTABLISHED],14956,TCP,61877,443,172.20.160.214:61877 -> 172.217.116.4:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_61878_142.250.77.129_443,socket,TCP :61878 [TIME_WAIT],0,TCP,61878,443,172.20.160.214:61878 -> 142.250.77.129:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_61966_3.83.194.201_443,socket,TCP :61966 [TIME_WAIT],0,TCP,61966,443,172.20.160.214:61966 -> 3.83.194.201:443 (TIME_WAIT)
+sock_tcp4_10380_172.20.160.214_62008_4.213.25.240_443,socket,TCP :62008 [ESTABLISHED],10380,TCP,62008,443,172.20.160.214:62008 -> 4.213.25.240:443 (ESTABLISHED)
+sock_tcp4_16712_172.20.160.214_62153_150.171.114.114_443,socket,TCP :62153 [ESTABLISHED],16712,TCP,62153,443,172.20.160.214:62153 -> 150.171.114.114:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_62252_100.62.0.194_443,socket,TCP :62252 [TIME_WAIT],0,TCP,62252,443,172.20.160.214:62252 -> 100.62.0.194:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_62273_44.214.51.26_443,socket,TCP :62273 [TIME_WAIT],0,TCP,62273,443,172.20.160.214:62273 -> 44.214.51.26:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_62425_172.217.114.4_443,socket,TCP :62425 [TIME_WAIT],0,TCP,62425,443,172.20.160.214:62425 -> 172.217.114.4:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_62714_44.214.51.26_443,socket,TCP :62714 [TIME_WAIT],0,TCP,62714,443,172.20.160.214:62714 -> 44.214.51.26:443 (TIME_WAIT)
+sock_tcp4_5144_172.20.160.214_62933_34.160.89.58_443,socket,TCP :62933 [CLOSE_WAIT],5144,TCP,62933,443,172.20.160.214:62933 -> 34.160.89.58:443 (CLOSE_WAIT)
+sock_tcp4_5852_172.20.160.214_62937_20.99.129.183_443,socket,TCP :62937 [CLOSE_WAIT],5852,TCP,62937,443,172.20.160.214:62937 -> 20.99.129.183:443 (CLOSE_WAIT)
+sock_tcp4_0_172.20.160.214_63051_44.214.51.26_443,socket,TCP :63051 [TIME_WAIT],0,TCP,63051,443,172.20.160.214:63051 -> 44.214.51.26:443 (TIME_WAIT)
+sock_tcp4_19752_172.20.160.214_63203_140.82.112.26_443,socket,TCP :63203 [ESTABLISHED],19752,TCP,63203,443,172.20.160.214:63203 -> 140.82.112.26:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_63459_23.200.48.11_443,socket,TCP :63459 [TIME_WAIT],0,TCP,63459,443,172.20.160.214:63459 -> 23.200.48.11:443 (TIME_WAIT)
+sock_tcp4_0_172.20.160.214_63550_3.83.194.201_443,socket,TCP :63550 [TIME_WAIT],0,TCP,63550,443,172.20.160.214:63550 -> 3.83.194.201:443 (TIME_WAIT)
+sock_tcp4_10960_172.20.160.214_63551_20.190.145.160_443,socket,TCP :63551 [ESTABLISHED],10960,TCP,63551,443,172.20.160.214:63551 -> 20.190.145.160:443 (ESTABLISHED)
+sock_tcp4_10380_172.20.160.214_63552_20.190.174.42_443,socket,TCP :63552 [ESTABLISHED],10380,TCP,63552,443,172.20.160.214:63552 -> 20.190.174.42:443 (ESTABLISHED)
+sock_tcp4_16712_172.20.160.214_63639_204.79.197.222_443,socket,TCP :63639 [ESTABLISHED],16712,TCP,63639,443,172.20.160.214:63639 -> 204.79.197.222:443 (ESTABLISHED)
+sock_tcp4_16712_172.20.160.214_63663_104.86.188.187_443,socket,TCP :63663 [CLOSE_WAIT],16712,TCP,63663,443,172.20.160.214:63663 -> 104.86.188.187:443 (CLOSE_WAIT)
+sock_tcp4_16712_172.20.160.214_64081_150.171.110.102_443,socket,TCP :64081 [ESTABLISHED],16712,TCP,64081,443,172.20.160.214:64081 -> 150.171.110.102:443 (ESTABLISHED)
+sock_tcp4_19752_172.20.160.214_64533_104.18.36.252_443,socket,TCP :64533 [ESTABLISHED],19752,TCP,64533,443,172.20.160.214:64533 -> 104.18.36.252:443 (ESTABLISHED)
+sock_tcp4_14956_172.20.160.214_64632_172.217.119.4_443,socket,TCP :64632 [ESTABLISHED],14956,TCP,64632,443,172.20.160.214:64632 -> 172.217.119.4:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_64633_13.89.179.15_443,socket,TCP :64633 [TIME_WAIT],0,TCP,64633,443,172.20.160.214:64633 -> 13.89.179.15:443 (TIME_WAIT)
+sock_tcp4_16712_172.20.160.214_65027_150.171.110.85_443,socket,TCP :65027 [ESTABLISHED],16712,TCP,65027,443,172.20.160.214:65027 -> 150.171.110.85:443 (ESTABLISHED)
+sock_tcp4_0_172.20.160.214_65328_44.214.51.26_443,socket,TCP :65328 [TIME_WAIT],0,TCP,65328,443,172.20.160.214:65328 -> 44.214.51.26:443 (TIME_WAIT)
+sock_tcp4_4_192.168.56.1_139_0.0.0.0_0,socket,TCP :139 [LISTENING],4,TCP,139,0,192.168.56.1:139 -> 0.0.0.0:0 (LISTENING)
+sock_tcp6_928_::_135_::_0,socket,TCP6 :135 [LISTENING],928,TCP6,135,0,:::135 -> :::0 (LISTENING)
+sock_tcp6_4_::_445_::_0,socket,TCP6 :445 [LISTENING],4,TCP6,445,0,:::445 -> :::0 (LISTENING)
+sock_tcp6_4_::_5357_::_0,socket,TCP6 :5357 [LISTENING],4,TCP6,5357,0,:::5357 -> :::0 (LISTENING)
+sock_tcp6_1864_::_49664_::_0,socket,TCP6 :49664 [LISTENING],1864,TCP6,49664,0,:::49664 -> :::0 (LISTENING)
+sock_tcp6_1696_::_49665_::_0,socket,TCP6 :49665 [LISTENING],1696,TCP6,49665,0,:::49665 -> :::0 (LISTENING)
+sock_tcp6_2640_::_49666_::_0,socket,TCP6 :49666 [LISTENING],2640,TCP6,49666,0,:::49666 -> :::0 (LISTENING)
+sock_tcp6_3824_::_49667_::_0,socket,TCP6 :49667 [LISTENING],3824,TCP6,49667,0,:::49667 -> :::0 (LISTENING)
+sock_tcp6_6372_::_49668_::_0,socket,TCP6 :49668 [LISTENING],6372,TCP6,49668,0,:::49668 -> :::0 (LISTENING)
+sock_tcp6_1816_::_49669_::_0,socket,TCP6 :49669 [LISTENING],1816,TCP6,49669,0,:::49669 -> :::0 (LISTENING)
+sock_tcp6_20392_::_63069_::_0,socket,TCP6 :63069 [LISTENING],20392,TCP6,63069,0,:::63069 -> :::0 (LISTENING)
+sock_tcp6_27160_::1_42050_::_0,socket,TCP6 :42050 [LISTENING],27160,TCP6,42050,0,::1:42050 -> :::0 (LISTENING)
+sock_udp4_26864_0.0.0.0_123,socket,UDP :123 [*],26864,UDP,123,0,0.0.0.0:123 -> *:0 (*)
+sock_udp4_20392_0.0.0.0_1900,socket,UDP :1900 [*],20392,UDP,1900,0,0.0.0.0:1900 -> *:0 (*)
+sock_udp4_18592_0.0.0.0_3702,socket,UDP :3702 [*],18592,UDP,3702,0,0.0.0.0:3702 -> *:0 (*)
+sock_udp4_18592_0.0.0.0_3702,socket,UDP :3702 [*],18592,UDP,3702,0,0.0.0.0:3702 -> *:0 (*)
+sock_udp4_11940_0.0.0.0_5050,socket,UDP :5050 [*],11940,UDP,5050,0,0.0.0.0:5050 -> *:0 (*)
+sock_udp4_22824_0.0.0.0_5353,socket,UDP :5353 [*],22824,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_2708_0.0.0.0_5353,socket,UDP :5353 [*],2708,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_22824_0.0.0.0_5353,socket,UDP :5353 [*],22824,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_22824_0.0.0.0_5353,socket,UDP :5353 [*],22824,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_18660_0.0.0.0_5353,socket,UDP :5353 [*],18660,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_18660_0.0.0.0_5353,socket,UDP :5353 [*],18660,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_18660_0.0.0.0_5353,socket,UDP :5353 [*],18660,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_18660_0.0.0.0_5353,socket,UDP :5353 [*],18660,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_22824_0.0.0.0_5353,socket,UDP :5353 [*],22824,UDP,5353,0,0.0.0.0:5353 -> *:0 (*)
+sock_udp4_2708_0.0.0.0_5355,socket,UDP :5355 [*],2708,UDP,5355,0,0.0.0.0:5355 -> *:0 (*)
+sock_udp4_18592_0.0.0.0_49282,socket,UDP :49282 [*],18592,UDP,49282,0,0.0.0.0:49282 -> *:0 (*)
+sock_udp4_23956_0.0.0.0_50076,socket,UDP :50076 [*],23956,UDP,50076,0,0.0.0.0:50076 -> *:0 (*)
+sock_udp4_2708_0.0.0.0_50775,socket,UDP :50775 [*],2708,UDP,50775,0,0.0.0.0:50775 -> *:0 (*)
+sock_udp4_2708_0.0.0.0_53594,socket,UDP :53594 [*],2708,UDP,53594,0,0.0.0.0:53594 -> *:0 (*)
+sock_udp4_23956_0.0.0.0_53970,socket,UDP :53970 [*],23956,UDP,53970,0,0.0.0.0:53970 -> *:0 (*)
+sock_udp4_2708_0.0.0.0_58485,socket,UDP :58485 [*],2708,UDP,58485,0,0.0.0.0:58485 -> *:0 (*)
+sock_udp4_6676_0.0.0.0_59042,socket,UDP :59042 [*],6676,UDP,59042,0,0.0.0.0:59042 -> *:0 (*)
+sock_udp4_16712_0.0.0.0_60904,socket,UDP :60904 [*],16712,UDP,60904,0,0.0.0.0:60904 -> *:0 (*)
+sock_udp4_20392_0.0.0.0_63069,socket,UDP :63069 [*],20392,UDP,63069,0,0.0.0.0:63069 -> *:0 (*)
+sock_udp4_6336_127.0.0.1_1900,socket,UDP :1900 [*],6336,UDP,1900,0,127.0.0.1:1900 -> *:0 (*)
+sock_udp4_6336_127.0.0.1_50269,socket,UDP :50269 [*],6336,UDP,50269,0,127.0.0.1:50269 -> *:0 (*)
+sock_udp4_20392_127.0.0.1_57483,socket,UDP :57483 [*],20392,UDP,57483,0,127.0.0.1:57483 -> *:0 (*)
+sock_udp4_6800_127.0.0.1_59044,socket,UDP :59044 [*],6800,UDP,59044,0,127.0.0.1:59044 -> *:0 (*)
+sock_udp4_4_172.20.160.214_137,socket,UDP :137 [*],4,UDP,137,0,172.20.160.214:137 -> *:0 (*)
+sock_udp4_4_172.20.160.214_138,socket,UDP :138 [*],4,UDP,138,0,172.20.160.214:138 -> *:0 (*)
+sock_udp4_6336_172.20.160.214_1900,socket,UDP :1900 [*],6336,UDP,1900,0,172.20.160.214:1900 -> *:0 (*)
+sock_udp4_6676_172.20.160.214_5353,socket,UDP :5353 [*],6676,UDP,5353,0,172.20.160.214:5353 -> *:0 (*)
+sock_udp4_6336_172.20.160.214_50268,socket,UDP :50268 [*],6336,UDP,50268,0,172.20.160.214:50268 -> *:0 (*)
+sock_udp4_20392_172.20.160.214_57482,socket,UDP :57482 [*],20392,UDP,57482,0,172.20.160.214:57482 -> *:0 (*)
+sock_udp4_4_192.168.56.1_137,socket,UDP :137 [*],4,UDP,137,0,192.168.56.1:137 -> *:0 (*)
+sock_udp4_4_192.168.56.1_138,socket,UDP :138 [*],4,UDP,138,0,192.168.56.1:138 -> *:0 (*)
+sock_udp4_6336_192.168.56.1_1900,socket,UDP :1900 [*],6336,UDP,1900,0,192.168.56.1:1900 -> *:0 (*)
+sock_udp4_6676_192.168.56.1_5353,socket,UDP :5353 [*],6676,UDP,5353,0,192.168.56.1:5353 -> *:0 (*)
+sock_udp4_6336_192.168.56.1_50267,socket,UDP :50267 [*],6336,UDP,50267,0,192.168.56.1:50267 -> *:0 (*)
+sock_udp4_20392_192.168.56.1_57481,socket,UDP :57481 [*],20392,UDP,57481,0,192.168.56.1:57481 -> *:0 (*)
+sock_udp6_26864_::_123,socket,UDP6 :123 [*],26864,UDP6,123,0,:::123 -> *:0 (*)
+sock_udp6_18592_::_3702,socket,UDP6 :3702 [*],18592,UDP6,3702,0,:::3702 -> *:0 (*)
+sock_udp6_18592_::_3702,socket,UDP6 :3702 [*],18592,UDP6,3702,0,:::3702 -> *:0 (*)
+sock_udp6_22824_::_5353,socket,UDP6 :5353 [*],22824,UDP6,5353,0,:::5353 -> *:0 (*)
+sock_udp6_2708_::_5353,socket,UDP6 :5353 [*],2708,UDP6,5353,0,:::5353 -> *:0 (*)
+sock_udp6_22824_::_5353,socket,UDP6 :5353 [*],22824,UDP6,5353,0,:::5353 -> *:0 (*)
+sock_udp6_18660_::_5353,socket,UDP6 :5353 [*],18660,UDP6,5353,0,:::5353 -> *:0 (*)
+sock_udp6_18660_::_5353,socket,UDP6 :5353 [*],18660,UDP6,5353,0,:::5353 -> *:0 (*)
+sock_udp6_2708_::_5355,socket,UDP6 :5355 [*],2708,UDP6,5355,0,:::5355 -> *:0 (*)
+sock_udp6_18592_::_49283,socket,UDP6 :49283 [*],18592,UDP6,49283,0,:::49283 -> *:0 (*)
+sock_udp6_23956_::_50076,socket,UDP6 :50076 [*],23956,UDP6,50076,0,:::50076 -> *:0 (*)
+sock_udp6_2708_::_50775,socket,UDP6 :50775 [*],2708,UDP6,50775,0,:::50775 -> *:0 (*)
+sock_udp6_2708_::_53594,socket,UDP6 :53594 [*],2708,UDP6,53594,0,:::53594 -> *:0 (*)
+sock_udp6_23956_::_53970,socket,UDP6 :53970 [*],23956,UDP6,53970,0,:::53970 -> *:0 (*)
+sock_udp6_2708_::_58485,socket,UDP6 :58485 [*],2708,UDP6,58485,0,:::58485 -> *:0 (*)
+sock_udp6_6676_::_59043,socket,UDP6 :59043 [*],6676,UDP6,59043,0,:::59043 -> *:0 (*)
+sock_udp6_20392_::_63069,socket,UDP6 :63069 [*],20392,UDP6,63069,0,:::63069 -> *:0 (*)
+sock_udp6_6336_::1_1900,socket,UDP6 :1900 [*],6336,UDP6,1900,0,::1:1900 -> *:0 (*)
+sock_udp6_6676_::1_5353,socket,UDP6 :5353 [*],6676,UDP6,5353,0,::1:5353 -> *:0 (*)
+sock_udp6_6336_::1_50266,socket,UDP6 :50266 [*],6336,UDP6,50266,0,::1:50266 -> *:0 (*)
+sock_udp6_2580_fe80::4701:2b3d:1920:8b6a_546,socket,UDP6 :546 [*],2580,UDP6,546,0,fe80::4701:2b3d:1920:8b6a:546 -> *:0 (*)
+sock_udp6_6336_fe80::4701:2b3d:1920:8b6a_1900,socket,UDP6 :1900 [*],6336,UDP6,1900,0,fe80::4701:2b3d:1920:8b6a:1900 -> *:0 (*)
+sock_udp6_6336_fe80::4701:2b3d:1920:8b6a_50265,socket,UDP6 :50265 [*],6336,UDP6,50265,0,fe80::4701:2b3d:1920:8b6a:50265 -> *:0 (*)
+sock_udp6_6336_fe80::66ac:6d49:38c2:7422_1900,socket,UDP6 :1900 [*],6336,UDP6,1900,0,fe80::66ac:6d49:38c2:7422:1900 -> *:0 (*)
+sock_udp6_6336_fe80::66ac:6d49:38c2:7422_50264,socket,UDP6 :50264 [*],6336,UDP6,50264,0,fe80::66ac:6d49:38c2:7422:50264 -> *:0 (*)

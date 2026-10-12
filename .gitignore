@@ -10,6 +10,7 @@ build/
 
 # Telemetry data dumps
 *.json
+!telemetry.json
 
 # Visual Studio / IDE files
 .vs/
